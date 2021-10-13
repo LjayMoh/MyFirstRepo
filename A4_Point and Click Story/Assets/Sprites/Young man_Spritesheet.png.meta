@@ -1,7 +1,5128 @@
 fileFormatVersion: 2
 guid: 9b758ec643772ef4881d934510b89389
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 695335241215898463
+    second: Young man_Spritesheet_0
+  - first:
+      213: -7062986629127547129
+    second: IdleBack1
+  - first:
+      213: 2231637656426594228
+    second: WalkForward
+  - first:
+      213: -2579465962449770656
+    second: Young man_Spritesheet_3
+  - first:
+      213: 786592998101980911
+    second: IdleBack2
+  - first:
+      213: -7497260950093078124
+    second: WalkLeft
+  - first:
+      213: -8928187595342624288
+    second: Young man_Spritesheet_6
+  - first:
+      213: -2251138029129772597
+    second: IdleSide
+  - first:
+      213: -5022009283542651146
+    second: Young man_Spritesheet_8
+  - first:
+      213: -2400023564830726175
+    second: WalkBack
+  - first:
+      213: -9180154254024230319
+    second: Young man_Spritesheet_10
+  - first:
+      213: 6272855911955271358
+    second: IdleFront
+  - first:
+      213: -6888123221380760709
+    second: Young man_Spritesheet_12
+  - first:
+      213: -5792159418631937809
+    second: Young man_Spritesheet_13
+  - first:
+      213: -2355474425358516704
+    second: Young man_Spritesheet_14
+  - first:
+      213: -6223491930757041911
+    second: Young man_Spritesheet_15
+  - first:
+      213: -403732669631274055
+    second: Young man_Spritesheet_16
+  - first:
+      213: 8647194764469574622
+    second: Young man_Spritesheet_17
+  - first:
+      213: 6493871283900215109
+    second: Young man_Spritesheet_18
+  - first:
+      213: 4923532016008718867
+    second: Young man_Spritesheet_19
+  - first:
+      213: 8750365152735273217
+    second: Young man_Spritesheet_20
+  - first:
+      213: 4362668899723859075
+    second: Young man_Spritesheet_21
+  - first:
+      213: 4119591565736508775
+    second: Young man_Spritesheet_22
+  - first:
+      213: -4242785552169441328
+    second: Young man_Spritesheet_23
+  - first:
+      213: 5978260293841301486
+    second: Young man_Spritesheet_24
+  - first:
+      213: -2469096506897556998
+    second: Young man_Spritesheet_25
+  - first:
+      213: 2907900698554458287
+    second: Young man_Spritesheet_26
+  - first:
+      213: -7616189833884058515
+    second: Young man_Spritesheet_27
+  - first:
+      213: -3705193960974881935
+    second: Young man_Spritesheet_28
+  - first:
+      213: 3302507606940459552
+    second: Young man_Spritesheet_29
+  - first:
+      213: -7498540193405834125
+    second: Young man_Spritesheet_30
+  - first:
+      213: 4468104997822117327
+    second: Young man_Spritesheet_31
+  - first:
+      213: -4660197412016054104
+    second: Young man_Spritesheet_32
+  - first:
+      213: -6202146606606231106
+    second: Young man_Spritesheet_33
+  - first:
+      213: -4313999485392565385
+    second: Young man_Spritesheet_34
+  - first:
+      213: -7050480708772543309
+    second: Young man_Spritesheet_35
+  - first:
+      213: -4859794259545284202
+    second: Young man_Spritesheet_36
+  - first:
+      213: -2478745304561444427
+    second: Young man_Spritesheet_37
+  - first:
+      213: 8617325554745888951
+    second: Young man_Spritesheet_38
+  - first:
+      213: 6310663435108629002
+    second: Young man_Spritesheet_39
+  - first:
+      213: -7437605967460533320
+    second: Young man_Spritesheet_40
+  - first:
+      213: 8282945269446495781
+    second: Young man_Spritesheet_41
+  - first:
+      213: 1778875216605712711
+    second: Young man_Spritesheet_42
+  - first:
+      213: -1475675375016737863
+    second: Young man_Spritesheet_43
+  - first:
+      213: -8703933834056886066
+    second: Young man_Spritesheet_44
+  - first:
+      213: -5769033992897889380
+    second: Young man_Spritesheet_45
+  - first:
+      213: -8663158347962023048
+    second: Young man_Spritesheet_46
+  - first:
+      213: 6772584018557830368
+    second: Young man_Spritesheet_47
+  - first:
+      213: 9192116917254465876
+    second: Young man_Spritesheet_48
+  - first:
+      213: -7637330608409744516
+    second: Young man_Spritesheet_49
+  - first:
+      213: -2035178951155694926
+    second: Young man_Spritesheet_50
+  - first:
+      213: -4964949761368383855
+    second: Young man_Spritesheet_51
+  - first:
+      213: -9222082411275398808
+    second: Young man_Spritesheet_52
+  - first:
+      213: 881849745242804547
+    second: Young man_Spritesheet_53
+  - first:
+      213: -4411484508426489592
+    second: Young man_Spritesheet_54
+  - first:
+      213: -1456956257387273325
+    second: Young man_Spritesheet_55
+  - first:
+      213: 985768684684260185
+    second: Young man_Spritesheet_56
+  - first:
+      213: 7384149412538317223
+    second: Young man_Spritesheet_57
+  - first:
+      213: 7502904036664718491
+    second: Young man_Spritesheet_58
+  - first:
+      213: -6562131298417198322
+    second: Young man_Spritesheet_59
+  - first:
+      213: -7598738430283372785
+    second: Young man_Spritesheet_60
+  - first:
+      213: -6211851312053863143
+    second: Young man_Spritesheet_61
+  - first:
+      213: -8198400179113345589
+    second: Young man_Spritesheet_62
+  - first:
+      213: 5522056257293808525
+    second: Young man_Spritesheet_63
+  - first:
+      213: -3690664539040025077
+    second: Young man_Spritesheet_64
+  - first:
+      213: 1389755610448266771
+    second: Young man_Spritesheet_65
+  - first:
+      213: -275528518894780695
+    second: Young man_Spritesheet_66
+  - first:
+      213: -5837797694219035513
+    second: Young man_Spritesheet_67
+  - first:
+      213: -6409905483043514901
+    second: Young man_Spritesheet_68
+  - first:
+      213: 1984413768623769981
+    second: Young man_Spritesheet_69
+  - first:
+      213: -7170845196525290235
+    second: Young man_Spritesheet_70
+  - first:
+      213: -8662346938847652719
+    second: Young man_Spritesheet_71
+  - first:
+      213: -1811628370919662250
+    second: Young man_Spritesheet_72
+  - first:
+      213: 4853533078694466618
+    second: Young man_Spritesheet_73
+  - first:
+      213: -4038278792259018760
+    second: Young man_Spritesheet_74
+  - first:
+      213: -5456411574625520297
+    second: Young man_Spritesheet_75
+  - first:
+      213: 4829583470502986739
+    second: Young man_Spritesheet_76
+  - first:
+      213: 2761105662576092597
+    second: Young man_Spritesheet_77
+  - first:
+      213: -9168410053056136006
+    second: Young man_Spritesheet_78
+  - first:
+      213: -5178941383688540541
+    second: Young man_Spritesheet_79
+  - first:
+      213: -898177035433486985
+    second: Young man_Spritesheet_80
+  - first:
+      213: 6333047904786345581
+    second: Young man_Spritesheet_81
+  - first:
+      213: -8638924592959146081
+    second: Young man_Spritesheet_82
+  - first:
+      213: -8789068311634662321
+    second: Young man_Spritesheet_83
+  - first:
+      213: 2321568371742438557
+    second: Young man_Spritesheet_84
+  - first:
+      213: 1834435540905048151
+    second: Young man_Spritesheet_85
+  - first:
+      213: -1839833661831665083
+    second: Young man_Spritesheet_86
+  - first:
+      213: 7691103536742310667
+    second: Young man_Spritesheet_87
+  - first:
+      213: -930900492375926103
+    second: Young man_Spritesheet_88
+  - first:
+      213: -1173765949119969574
+    second: Young man_Spritesheet_89
+  - first:
+      213: -6677863225316776252
+    second: Young man_Spritesheet_90
+  - first:
+      213: 196185605630102596
+    second: Young man_Spritesheet_91
+  - first:
+      213: 2914521866725429537
+    second: Young man_Spritesheet_92
+  - first:
+      213: -8598195024303143691
+    second: Young man_Spritesheet_93
+  - first:
+      213: 3148125505095184836
+    second: Young man_Spritesheet_94
+  - first:
+      213: -3847204279300989367
+    second: Young man_Spritesheet_95
+  - first:
+      213: 7920148411419959182
+    second: Young man_Spritesheet_96
+  - first:
+      213: -5662160650117483128
+    second: Young man_Spritesheet_97
+  - first:
+      213: -1117938026846613612
+    second: Young man_Spritesheet_98
+  - first:
+      213: 6109149596247093563
+    second: Young man_Spritesheet_99
+  - first:
+      213: -1638922284131575601
+    second: Young man_Spritesheet_100
+  - first:
+      213: -4814633535869191243
+    second: Young man_Spritesheet_101
+  - first:
+      213: -4200592504982525211
+    second: Young man_Spritesheet_102
+  - first:
+      213: 3364028852668200792
+    second: Young man_Spritesheet_103
+  - first:
+      213: 9108963529117389155
+    second: Young man_Spritesheet_104
+  - first:
+      213: -305115217226034037
+    second: Young man_Spritesheet_105
+  - first:
+      213: -4599208689551160846
+    second: Young man_Spritesheet_106
+  - first:
+      213: -3116250446088079252
+    second: Young man_Spritesheet_107
+  - first:
+      213: -6306300650222759252
+    second: Young man_Spritesheet_108
+  - first:
+      213: 1992827545423612057
+    second: Young man_Spritesheet_109
+  - first:
+      213: -1094664494368662831
+    second: Young man_Spritesheet_110
+  - first:
+      213: 874619600103116868
+    second: Young man_Spritesheet_111
+  - first:
+      213: -2682070621335296186
+    second: Young man_Spritesheet_112
+  - first:
+      213: 2889342403302473817
+    second: Young man_Spritesheet_113
+  - first:
+      213: -4574261314144790969
+    second: Young man_Spritesheet_114
+  - first:
+      213: -6057644676780815940
+    second: Young man_Spritesheet_115
+  - first:
+      213: 111940364660561489
+    second: Young man_Spritesheet_116
+  - first:
+      213: -869803386266047975
+    second: Young man_Spritesheet_117
+  - first:
+      213: -5873693532172770910
+    second: Young man_Spritesheet_118
+  - first:
+      213: 5322487891922022745
+    second: Young man_Spritesheet_119
+  - first:
+      213: -7287006144869804023
+    second: Young man_Spritesheet_120
+  - first:
+      213: -8392692507803405082
+    second: Young man_Spritesheet_121
+  - first:
+      213: 1593587549086964455
+    second: Young man_Spritesheet_122
+  - first:
+      213: 2456984372621413510
+    second: Young man_Spritesheet_123
+  - first:
+      213: 7249454508322052953
+    second: Young man_Spritesheet_124
+  - first:
+      213: 2003928190163138368
+    second: Young man_Spritesheet_125
+  - first:
+      213: 5839100333753997722
+    second: Young man_Spritesheet_126
+  - first:
+      213: -7805714973383937606
+    second: Young man_Spritesheet_127
+  - first:
+      213: 4478587590294129411
+    second: Young man_Spritesheet_128
+  - first:
+      213: 2757814445739948316
+    second: Young man_Spritesheet_129
+  - first:
+      213: 2002472040670157464
+    second: Young man_Spritesheet_130
+  - first:
+      213: -5903312668638682299
+    second: Young man_Spritesheet_131
+  - first:
+      213: 5211061753628252590
+    second: Young man_Spritesheet_132
+  - first:
+      213: 8926113536876007399
+    second: Young man_Spritesheet_133
+  - first:
+      213: -3431050777008704961
+    second: Young man_Spritesheet_134
+  - first:
+      213: 1520237067179163651
+    second: Young man_Spritesheet_135
+  - first:
+      213: -2111464891736906374
+    second: Young man_Spritesheet_136
+  - first:
+      213: -2132991863421018627
+    second: Young man_Spritesheet_137
+  - first:
+      213: -466211162501086547
+    second: Young man_Spritesheet_138
+  - first:
+      213: -4370065764936198751
+    second: Young man_Spritesheet_139
+  - first:
+      213: -4985749994433490526
+    second: Young man_Spritesheet_140
+  - first:
+      213: -8762647561563699207
+    second: Young man_Spritesheet_141
+  - first:
+      213: -2837299784078233988
+    second: Young man_Spritesheet_142
+  - first:
+      213: 7892199501260782789
+    second: Young man_Spritesheet_143
+  - first:
+      213: 102822910419058033
+    second: Young man_Spritesheet_144
+  - first:
+      213: -8319371344370663228
+    second: Young man_Spritesheet_145
+  - first:
+      213: -3821571307190515466
+    second: Young man_Spritesheet_146
+  - first:
+      213: 2769335413949356390
+    second: Young man_Spritesheet_147
+  - first:
+      213: -3570825174582382606
+    second: Young man_Spritesheet_148
+  - first:
+      213: -6938619737556414911
+    second: Young man_Spritesheet_149
+  - first:
+      213: 7305078980011756931
+    second: Young man_Spritesheet_150
+  - first:
+      213: -3374666470333025351
+    second: Young man_Spritesheet_151
+  - first:
+      213: -5952557558041399256
+    second: Young man_Spritesheet_152
+  - first:
+      213: 5064311893505713039
+    second: Young man_Spritesheet_153
+  - first:
+      213: -5538632781250890579
+    second: Young man_Spritesheet_154
+  - first:
+      213: 3098329185444281611
+    second: Young man_Spritesheet_155
+  - first:
+      213: -4391466568720123391
+    second: Young man_Spritesheet_156
+  - first:
+      213: -6809905560980339999
+    second: Young man_Spritesheet_157
+  - first:
+      213: -3931250813874778498
+    second: Young man_Spritesheet_158
+  - first:
+      213: 7696787235050398671
+    second: Young man_Spritesheet_159
+  - first:
+      213: -8656974809196698819
+    second: Young man_Spritesheet_160
+  - first:
+      213: -2693782359920157032
+    second: Young man_Spritesheet_161
+  - first:
+      213: -5076812037674525116
+    second: Young man_Spritesheet_162
+  - first:
+      213: -5039481535874095404
+    second: Young man_Spritesheet_163
+  - first:
+      213: 9035883630368101795
+    second: Young man_Spritesheet_164
+  - first:
+      213: -479839598336846677
+    second: Young man_Spritesheet_165
+  - first:
+      213: 433316288706873777
+    second: Young man_Spritesheet_166
+  - first:
+      213: -3310995737722235640
+    second: Young man_Spritesheet_167
+  - first:
+      213: -3571547955028547441
+    second: Young man_Spritesheet_168
+  - first:
+      213: 2830022122683582828
+    second: Young man_Spritesheet_169
+  - first:
+      213: -2544764780751058132
+    second: Young man_Spritesheet_170
+  - first:
+      213: 7106667000463645229
+    second: Young man_Spritesheet_171
+  - first:
+      213: -6097300381182673793
+    second: Young man_Spritesheet_172
+  - first:
+      213: 1617771798904923834
+    second: Young man_Spritesheet_173
+  - first:
+      213: 2954233078679328289
+    second: Young man_Spritesheet_174
+  - first:
+      213: 7069300249080385249
+    second: Young man_Spritesheet_175
+  - first:
+      213: -7601412187389837482
+    second: Young man_Spritesheet_176
+  - first:
+      213: 6251791875917140532
+    second: Young man_Spritesheet_177
+  - first:
+      213: 8418401567389858053
+    second: Young man_Spritesheet_178
+  - first:
+      213: 40648967667120025
+    second: Young man_Spritesheet_179
+  - first:
+      213: 3600840286529396613
+    second: Young man_Spritesheet_180
+  - first:
+      213: 742706067460994743
+    second: Young man_Spritesheet_181
+  - first:
+      213: 2729705027221430809
+    second: Young man_Spritesheet_182
+  - first:
+      213: -2982141495567853636
+    second: Young man_Spritesheet_183
+  - first:
+      213: -1167308415762953541
+    second: Young man_Spritesheet_184
+  - first:
+      213: -995186266373101991
+    second: Young man_Spritesheet_185
+  - first:
+      213: 5246210676144859326
+    second: Young man_Spritesheet_186
+  - first:
+      213: -9060995891798467482
+    second: Young man_Spritesheet_187
+  - first:
+      213: -4144116290341446424
+    second: Young man_Spritesheet_188
+  - first:
+      213: 1143695752485628695
+    second: Young man_Spritesheet_189
+  - first:
+      213: 6109032593019480492
+    second: Young man_Spritesheet_190
+  - first:
+      213: -7831170078554455529
+    second: Young man_Spritesheet_191
+  - first:
+      213: 2361301350797801631
+    second: Young man_Spritesheet_192
+  - first:
+      213: -1312106312030911710
+    second: Young man_Spritesheet_193
+  - first:
+      213: 8459571677609592482
+    second: Young man_Spritesheet_194
+  - first:
+      213: -5272318880600750570
+    second: Young man_Spritesheet_195
+  - first:
+      213: 7431702211168447525
+    second: Young man_Spritesheet_196
+  - first:
+      213: -3155876903965987711
+    second: Young man_Spritesheet_197
+  - first:
+      213: -6507723220832456947
+    second: Young man_Spritesheet_198
+  - first:
+      213: -5670647972615471811
+    second: Young man_Spritesheet_199
+  - first:
+      213: 7681418621768214544
+    second: Young man_Spritesheet_200
+  - first:
+      213: 266333100434186818
+    second: Young man_Spritesheet_201
+  - first:
+      213: 2789717698356191692
+    second: Young man_Spritesheet_202
+  - first:
+      213: -2850868713997861917
+    second: Young man_Spritesheet_203
+  - first:
+      213: 2904052850217470108
+    second: Young man_Spritesheet_204
+  - first:
+      213: -5576309010182937954
+    second: Young man_Spritesheet_205
+  - first:
+      213: 8520702240566878414
+    second: Young man_Spritesheet_206
+  - first:
+      213: 7385556784945057106
+    second: Young man_Spritesheet_207
+  - first:
+      213: 2518576187892103769
+    second: Young man_Spritesheet_208
+  - first:
+      213: -813957177707822858
+    second: Young man_Spritesheet_209
+  - first:
+      213: -8797769169079901559
+    second: Young man_Spritesheet_210
+  - first:
+      213: 2422695118236980694
+    second: Young man_Spritesheet_211
+  - first:
+      213: 770484261492584692
+    second: Young man_Spritesheet_212
+  - first:
+      213: 5448348122482679300
+    second: Young man_Spritesheet_213
+  - first:
+      213: 4633235790724184991
+    second: Young man_Spritesheet_214
+  - first:
+      213: 658944023491137817
+    second: Young man_Spritesheet_215
+  - first:
+      213: -9211490775081846585
+    second: Young man_Spritesheet_216
+  - first:
+      213: -5832548809873677669
+    second: Young man_Spritesheet_217
+  - first:
+      213: 6172392473375800759
+    second: Young man_Spritesheet_218
+  - first:
+      213: 4284648840243174390
+    second: Young man_Spritesheet_219
+  - first:
+      213: -7698591577586325083
+    second: Young man_Spritesheet_220
+  - first:
+      213: 7798433456081696714
+    second: Young man_Spritesheet_221
+  - first:
+      213: -8114818530538239963
+    second: Young man_Spritesheet_222
+  - first:
+      213: -3592348654258596386
+    second: Young man_Spritesheet_223
+  - first:
+      213: 1345809657970464135
+    second: Young man_Spritesheet_224
+  - first:
+      213: -1035546657391276328
+    second: Young man_Spritesheet_225
+  - first:
+      213: 3719881877914313224
+    second: Young man_Spritesheet_226
+  - first:
+      213: 7551875204121098003
+    second: Young man_Spritesheet_227
+  - first:
+      213: 70978901398250747
+    second: Young man_Spritesheet_228
+  - first:
+      213: 3288631972511752440
+    second: Young man_Spritesheet_229
+  - first:
+      213: -5580071183191689305
+    second: Young man_Spritesheet_230
+  - first:
+      213: -4561575789956259006
+    second: Young man_Spritesheet_231
+  - first:
+      213: -5528152612775644427
+    second: Young man_Spritesheet_232
+  - first:
+      213: 6219289561936253610
+    second: Young man_Spritesheet_233
+  - first:
+      213: -9081154458458904131
+    second: Young man_Spritesheet_234
+  - first:
+      213: 583335673021065520
+    second: Young man_Spritesheet_235
+  - first:
+      213: -8480444093954133460
+    second: Young man_Spritesheet_236
+  - first:
+      213: -2426282166636908324
+    second: Young man_Spritesheet_237
+  - first:
+      213: -1759701289458556244
+    second: Young man_Spritesheet_238
+  - first:
+      213: 8892374172807258494
+    second: Young man_Spritesheet_239
+  - first:
+      213: -8791406561848793328
+    second: Young man_Spritesheet_240
+  - first:
+      213: 711429052763027518
+    second: Young man_Spritesheet_241
+  - first:
+      213: -8357725477497105530
+    second: Young man_Spritesheet_242
+  - first:
+      213: -1960759864599043314
+    second: Young man_Spritesheet_243
+  - first:
+      213: -6541550863150898105
+    second: Young man_Spritesheet_244
+  - first:
+      213: -5512896622706454579
+    second: Young man_Spritesheet_245
+  - first:
+      213: -1463879318826688013
+    second: Young man_Spritesheet_246
+  - first:
+      213: 684777922255430390
+    second: Young man_Spritesheet_247
+  - first:
+      213: -4272312832069891649
+    second: Young man_Spritesheet_248
+  - first:
+      213: -2765795501717716284
+    second: Young man_Spritesheet_249
+  - first:
+      213: 6236113409793450799
+    second: Young man_Spritesheet_250
+  - first:
+      213: -4548536481789255415
+    second: Young man_Spritesheet_251
+  - first:
+      213: -801185410800789635
+    second: Young man_Spritesheet_252
+  - first:
+      213: 2337187281292171875
+    second: Young man_Spritesheet_253
+  - first:
+      213: -8358863181735116649
+    second: Young man_Spritesheet_254
+  - first:
+      213: 7891169607940816989
+    second: Young man_Spritesheet_255
+  - first:
+      213: -490984942475065490
+    second: Young man_Spritesheet_256
+  - first:
+      213: 4863485781832659941
+    second: Young man_Spritesheet_257
+  - first:
+      213: 2414973627801813303
+    second: Young man_Spritesheet_258
+  - first:
+      213: 6216120563277784706
+    second: Young man_Spritesheet_259
+  - first:
+      213: 197951124449729431
+    second: Young man_Spritesheet_260
+  - first:
+      213: -5229564849538515954
+    second: Young man_Spritesheet_261
+  - first:
+      213: 8672200639754270058
+    second: Young man_Spritesheet_262
+  - first:
+      213: 1341953618361104409
+    second: Young man_Spritesheet_263
+  - first:
+      213: 160938507894464365
+    second: Young man_Spritesheet_264
+  - first:
+      213: -2791908345344071135
+    second: Young man_Spritesheet_265
+  - first:
+      213: 6951544587821301137
+    second: Young man_Spritesheet_266
+  - first:
+      213: 1570966914866365810
+    second: Young man_Spritesheet_267
+  - first:
+      213: 6649016054978972478
+    second: Young man_Spritesheet_268
+  - first:
+      213: 5099761053928047144
+    second: Young man_Spritesheet_269
+  - first:
+      213: 9094967594499481428
+    second: Young man_Spritesheet_270
+  - first:
+      213: -8999643739163503019
+    second: Young man_Spritesheet_271
+  - first:
+      213: 4298131125276363255
+    second: Young man_Spritesheet_272
+  - first:
+      213: 2086886712656588505
+    second: Young man_Spritesheet_273
+  - first:
+      213: -2608888829658023977
+    second: Young man_Spritesheet_274
+  - first:
+      213: 3581596303058666176
+    second: Young man_Spritesheet_275
+  - first:
+      213: -5552120597685290758
+    second: Young man_Spritesheet_276
+  - first:
+      213: -1909966710672499381
+    second: Young man_Spritesheet_277
+  - first:
+      213: 5823650725736117575
+    second: Young man_Spritesheet_278
+  - first:
+      213: -9127712046087840734
+    second: Young man_Spritesheet_279
+  - first:
+      213: -1614150463027297730
+    second: Young man_Spritesheet_280
+  - first:
+      213: 8259285654877927238
+    second: Young man_Spritesheet_281
+  - first:
+      213: 9064547645431943605
+    second: Young man_Spritesheet_282
+  - first:
+      213: -4125403003420276378
+    second: Young man_Spritesheet_283
+  - first:
+      213: 627638927451318362
+    second: Young man_Spritesheet_284
+  - first:
+      213: -8984559297062902215
+    second: Young man_Spritesheet_285
+  - first:
+      213: 6022689722836386847
+    second: Young man_Spritesheet_286
+  - first:
+      213: 2498004192618881951
+    second: Young man_Spritesheet_287
+  - first:
+      213: 4510996766621625146
+    second: Young man_Spritesheet_288
+  - first:
+      213: -4922750669826343054
+    second: Young man_Spritesheet_289
+  - first:
+      213: 5172052114889796179
+    second: Young man_Spritesheet_290
+  - first:
+      213: -4684599819240493836
+    second: Young man_Spritesheet_291
+  - first:
+      213: -6745364157386418697
+    second: Young man_Spritesheet_292
+  - first:
+      213: -4209951199892314230
+    second: Young man_Spritesheet_293
+  - first:
+      213: -3994176869013913532
+    second: Young man_Spritesheet_294
+  - first:
+      213: -4154039685044465665
+    second: Young man_Spritesheet_295
+  - first:
+      213: -4044964800256637123
+    second: Young man_Spritesheet_296
+  - first:
+      213: -4538788675757961763
+    second: Young man_Spritesheet_297
+  - first:
+      213: 551109754595156307
+    second: Young man_Spritesheet_298
+  - first:
+      213: 1147092528959976068
+    second: Young man_Spritesheet_299
+  - first:
+      213: 4275788727524578697
+    second: Young man_Spritesheet_300
+  - first:
+      213: 7381890922328708545
+    second: Young man_Spritesheet_301
+  - first:
+      213: -8484383372331944447
+    second: Young man_Spritesheet_302
+  - first:
+      213: -33387225589357452
+    second: Young man_Spritesheet_303
+  - first:
+      213: 85540355662194595
+    second: Young man_Spritesheet_304
+  - first:
+      213: -4823549480331377486
+    second: Young man_Spritesheet_305
+  - first:
+      213: -2413627909338563546
+    second: Young man_Spritesheet_306
+  - first:
+      213: -4586388516321136314
+    second: Young man_Spritesheet_307
+  - first:
+      213: -1706290496223187377
+    second: Young man_Spritesheet_308
+  - first:
+      213: 3726663034706919053
+    second: Young man_Spritesheet_309
+  - first:
+      213: -5051084142305174913
+    second: Young man_Spritesheet_310
+  - first:
+      213: 6706094473334471390
+    second: Young man_Spritesheet_311
+  - first:
+      213: -5033329270645732418
+    second: Young man_Spritesheet_312
+  - first:
+      213: 6232818435421246859
+    second: Young man_Spritesheet_313
+  - first:
+      213: -4912644354486503461
+    second: Young man_Spritesheet_314
+  - first:
+      213: 4690927194894641176
+    second: Young man_Spritesheet_315
+  - first:
+      213: -2948907307378720192
+    second: Young man_Spritesheet_316
+  - first:
+      213: -4182776303762388778
+    second: Young man_Spritesheet_317
+  - first:
+      213: -7656226583982793935
+    second: Young man_Spritesheet_318
+  - first:
+      213: -3161565686567154554
+    second: Young man_Spritesheet_319
+  - first:
+      213: -904157346393437205
+    second: Young man_Spritesheet_320
+  - first:
+      213: 2662347608626736332
+    second: Young man_Spritesheet_321
+  - first:
+      213: 1458727046262705954
+    second: Young man_Spritesheet_322
+  - first:
+      213: -3023241807882142856
+    second: Young man_Spritesheet_323
+  - first:
+      213: 4316690447524784815
+    second: Young man_Spritesheet_324
+  - first:
+      213: -5088278184969242452
+    second: Young man_Spritesheet_325
+  - first:
+      213: 3641396603109788298
+    second: Young man_Spritesheet_326
+  - first:
+      213: -1396467328471830855
+    second: Young man_Spritesheet_327
+  - first:
+      213: 5311562379611173853
+    second: Young man_Spritesheet_328
+  - first:
+      213: -604869589610901197
+    second: Young man_Spritesheet_329
+  - first:
+      213: -1155601040125545470
+    second: Young man_Spritesheet_330
+  - first:
+      213: -3059360132294455985
+    second: Young man_Spritesheet_331
+  - first:
+      213: -5516442649698772809
+    second: Young man_Spritesheet_332
+  - first:
+      213: -2193225349320406693
+    second: Young man_Spritesheet_333
+  - first:
+      213: -3836128686292064406
+    second: Young man_Spritesheet_334
+  - first:
+      213: 5550995114153108475
+    second: Young man_Spritesheet_335
+  - first:
+      213: -3226356102191012745
+    second: Young man_Spritesheet_336
+  - first:
+      213: 4280341394045592960
+    second: Young man_Spritesheet_337
+  - first:
+      213: 6919241064506943959
+    second: Young man_Spritesheet_338
+  - first:
+      213: 112352423412784529
+    second: Young man_Spritesheet_339
+  - first:
+      213: 2593478903226556197
+    second: Young man_Spritesheet_340
+  - first:
+      213: 3793373106004821980
+    second: Young man_Spritesheet_341
+  - first:
+      213: -204575437430046730
+    second: Young man_Spritesheet_342
+  - first:
+      213: -4709340485235339413
+    second: Young man_Spritesheet_343
+  - first:
+      213: -2022020717058477146
+    second: Young man_Spritesheet_344
+  - first:
+      213: -1749655262616647116
+    second: Young man_Spritesheet_345
+  - first:
+      213: -4114172522835149637
+    second: Young man_Spritesheet_346
+  - first:
+      213: 8894715238879944635
+    second: Young man_Spritesheet_347
+  - first:
+      213: 4107609741436287179
+    second: Young man_Spritesheet_348
+  - first:
+      213: 1851980002061128571
+    second: Young man_Spritesheet_349
+  - first:
+      213: 8500992231286869733
+    second: Young man_Spritesheet_350
+  - first:
+      213: -9070174978570981021
+    second: Young man_Spritesheet_351
+  - first:
+      213: -4453369538081834957
+    second: Young man_Spritesheet_352
+  - first:
+      213: -2752873421141071775
+    second: Young man_Spritesheet_353
+  - first:
+      213: -8388290191688641601
+    second: Young man_Spritesheet_354
+  - first:
+      213: -2509055772916447685
+    second: Young man_Spritesheet_355
+  - first:
+      213: -6184633262029513796
+    second: Young man_Spritesheet_356
+  - first:
+      213: 6144031297070274048
+    second: Young man_Spritesheet_357
+  - first:
+      213: 3884145349247031881
+    second: Young man_Spritesheet_358
+  - first:
+      213: 4931388929316910133
+    second: Young man_Spritesheet_359
+  - first:
+      213: -7792432651401179795
+    second: Young man_Spritesheet_360
+  - first:
+      213: 6364390385966924023
+    second: Young man_Spritesheet_361
+  - first:
+      213: -5539546744263793269
+    second: Young man_Spritesheet_362
+  - first:
+      213: -2020764280951897644
+    second: Young man_Spritesheet_363
+  - first:
+      213: -7188066561190169606
+    second: Young man_Spritesheet_364
+  - first:
+      213: 4699839578394942725
+    second: Young man_Spritesheet_365
+  - first:
+      213: -3392296613156620332
+    second: Young man_Spritesheet_366
+  - first:
+      213: 1005111960952621894
+    second: Young man_Spritesheet_367
+  - first:
+      213: 8881553198374960480
+    second: Young man_Spritesheet_368
+  - first:
+      213: -3146658766288604201
+    second: Young man_Spritesheet_369
+  - first:
+      213: -5786690627387640961
+    second: Young man_Spritesheet_370
+  - first:
+      213: -1596424374824244930
+    second: Young man_Spritesheet_371
+  - first:
+      213: 8796088199447777637
+    second: Young man_Spritesheet_372
+  - first:
+      213: 3285542269958799802
+    second: Young man_Spritesheet_373
+  - first:
+      213: -2608052601739959118
+    second: Young man_Spritesheet_374
+  - first:
+      213: 8493734387317689299
+    second: Young man_Spritesheet_375
+  - first:
+      213: -1474370633004060382
+    second: Young man_Spritesheet_376
+  - first:
+      213: 649570260956570828
+    second: Young man_Spritesheet_377
+  - first:
+      213: -3657563811359250931
+    second: Young man_Spritesheet_378
+  - first:
+      213: -7751195201878671475
+    second: Young man_Spritesheet_379
+  - first:
+      213: -6697256280669071507
+    second: Young man_Spritesheet_380
+  - first:
+      213: 8605215975524913948
+    second: Young man_Spritesheet_381
+  - first:
+      213: -4552378729526025280
+    second: Young man_Spritesheet_382
+  - first:
+      213: 62908916691035767
+    second: Young man_Spritesheet_383
+  - first:
+      213: 2600335055191144262
+    second: Young man_Spritesheet_384
+  - first:
+      213: -4890905504128626350
+    second: Young man_Spritesheet_385
+  - first:
+      213: -2301135230119568594
+    second: Young man_Spritesheet_386
+  - first:
+      213: -1477096135620406253
+    second: Young man_Spritesheet_387
+  - first:
+      213: -7791311894310254659
+    second: Young man_Spritesheet_388
+  - first:
+      213: -3431984666906737093
+    second: Young man_Spritesheet_389
+  - first:
+      213: 3964398805409659323
+    second: Young man_Spritesheet_390
+  - first:
+      213: 8577564797842452673
+    second: Young man_Spritesheet_391
+  - first:
+      213: 2113240117877008683
+    second: Young man_Spritesheet_392
+  - first:
+      213: 3261710457789700304
+    second: Young man_Spritesheet_393
+  - first:
+      213: 166067859885948330
+    second: Young man_Spritesheet_394
+  - first:
+      213: 6492900606476830286
+    second: Young man_Spritesheet_395
+  - first:
+      213: 6028892830688970932
+    second: Young man_Spritesheet_396
+  - first:
+      213: 8435853427714127792
+    second: Young man_Spritesheet_397
+  - first:
+      213: -3316876440277953659
+    second: Young man_Spritesheet_398
+  - first:
+      213: 1519181921948568881
+    second: Young man_Spritesheet_399
+  - first:
+      213: -7814056743665931947
+    second: Young man_Spritesheet_400
+  - first:
+      213: -6525368281580834316
+    second: Young man_Spritesheet_401
+  - first:
+      213: -4585221195655784544
+    second: Young man_Spritesheet_402
+  - first:
+      213: -2885294611699608547
+    second: Young man_Spritesheet_403
+  - first:
+      213: 1507726881922152062
+    second: Young man_Spritesheet_404
+  - first:
+      213: 3089968903147228485
+    second: Young man_Spritesheet_405
+  - first:
+      213: -8379537423406562086
+    second: Young man_Spritesheet_406
+  - first:
+      213: -6722753544776933496
+    second: Young man_Spritesheet_407
+  - first:
+      213: 5116134508941173555
+    second: Young man_Spritesheet_408
+  - first:
+      213: 6925007618713154864
+    second: Young man_Spritesheet_409
+  - first:
+      213: -171916467374212448
+    second: Young man_Spritesheet_410
+  - first:
+      213: -5480375151075652611
+    second: Young man_Spritesheet_411
+  - first:
+      213: 2907346748475755152
+    second: Young man_Spritesheet_412
+  - first:
+      213: -8246847752638590076
+    second: Young man_Spritesheet_413
+  - first:
+      213: -8301098998951123076
+    second: Young man_Spritesheet_414
+  - first:
+      213: 8851851986488124295
+    second: Young man_Spritesheet_415
+  - first:
+      213: -3417109906353065280
+    second: Young man_Spritesheet_416
+  - first:
+      213: 4967987980509319816
+    second: Young man_Spritesheet_417
+  - first:
+      213: 1212262483724432080
+    second: Young man_Spritesheet_418
+  - first:
+      213: -4883872567079133062
+    second: Young man_Spritesheet_419
+  - first:
+      213: -4906868293741213188
+    second: Young man_Spritesheet_420
+  - first:
+      213: 1573723024736597009
+    second: Young man_Spritesheet_421
+  - first:
+      213: -5234714534829590043
+    second: Young man_Spritesheet_422
+  - first:
+      213: 7401854922971901345
+    second: Young man_Spritesheet_423
+  - first:
+      213: 2365574706403038927
+    second: Young man_Spritesheet_424
+  - first:
+      213: 198398454272930381
+    second: Young man_Spritesheet_425
+  - first:
+      213: -8919281117350601526
+    second: Young man_Spritesheet_426
+  - first:
+      213: -421546594135542620
+    second: Young man_Spritesheet_427
+  - first:
+      213: 4309268146658466663
+    second: Young man_Spritesheet_428
+  - first:
+      213: -8508657142472583423
+    second: Young man_Spritesheet_429
+  - first:
+      213: 2845399920789300144
+    second: Young man_Spritesheet_430
+  - first:
+      213: 3228058270824095576
+    second: Young man_Spritesheet_431
+  - first:
+      213: -7809896142705322058
+    second: Young man_Spritesheet_432
+  - first:
+      213: 7182853348684733933
+    second: Young man_Spritesheet_433
+  - first:
+      213: 6341694520361089182
+    second: Young man_Spritesheet_434
+  - first:
+      213: -8894386642329032723
+    second: Young man_Spritesheet_435
+  - first:
+      213: -5095036932848887878
+    second: Young man_Spritesheet_436
+  - first:
+      213: 3895648993194933087
+    second: Young man_Spritesheet_437
+  - first:
+      213: -6860280839939591728
+    second: Young man_Spritesheet_438
+  - first:
+      213: 3819129409321273379
+    second: Young man_Spritesheet_439
+  - first:
+      213: -3608659038286074648
+    second: Young man_Spritesheet_440
+  - first:
+      213: -4223557321774151981
+    second: Young man_Spritesheet_441
+  - first:
+      213: -7843196234392270999
+    second: Young man_Spritesheet_442
+  - first:
+      213: -8567863751606185608
+    second: Young man_Spritesheet_443
+  - first:
+      213: -7533671085529114794
+    second: Young man_Spritesheet_444
+  - first:
+      213: -7573144589591341099
+    second: Young man_Spritesheet_445
+  - first:
+      213: 2784354100968077451
+    second: Young man_Spritesheet_446
+  - first:
+      213: -4815215640423090595
+    second: Young man_Spritesheet_447
+  - first:
+      213: -6566846483182149328
+    second: Young man_Spritesheet_448
+  - first:
+      213: -5172027719191500878
+    second: Young man_Spritesheet_449
+  - first:
+      213: 3096743255181938207
+    second: Young man_Spritesheet_450
+  - first:
+      213: 180293173457954923
+    second: Young man_Spritesheet_451
+  - first:
+      213: -6042222367930925048
+    second: Young man_Spritesheet_452
+  - first:
+      213: 9053503283409395661
+    second: Young man_Spritesheet_453
+  - first:
+      213: -1872783383587103254
+    second: Young man_Spritesheet_454
+  - first:
+      213: 4603225989960580969
+    second: Young man_Spritesheet_455
+  - first:
+      213: -1436312083468907632
+    second: Young man_Spritesheet_456
+  - first:
+      213: 6988055507394626359
+    second: Young man_Spritesheet_457
+  - first:
+      213: 325486155058749771
+    second: Young man_Spritesheet_458
+  - first:
+      213: -7450106232635394999
+    second: Young man_Spritesheet_459
+  - first:
+      213: -1234702749382091843
+    second: Young man_Spritesheet_460
+  - first:
+      213: 4006898890133610148
+    second: Young man_Spritesheet_461
+  - first:
+      213: -7039245489769466139
+    second: Young man_Spritesheet_462
+  - first:
+      213: -4067817240922361357
+    second: Young man_Spritesheet_463
+  - first:
+      213: -7149555298328636408
+    second: Young man_Spritesheet_464
+  - first:
+      213: -3865688034944834436
+    second: Young man_Spritesheet_465
+  - first:
+      213: -3666119296722871273
+    second: Young man_Spritesheet_466
+  - first:
+      213: 9164530766169602913
+    second: Young man_Spritesheet_467
+  - first:
+      213: 1841028863934856294
+    second: Young man_Spritesheet_468
+  - first:
+      213: -6276634651581802324
+    second: Young man_Spritesheet_469
+  - first:
+      213: -3832130672622176347
+    second: Young man_Spritesheet_470
+  - first:
+      213: 3583797837063719143
+    second: Young man_Spritesheet_471
+  - first:
+      213: 8893477478175210714
+    second: Young man_Spritesheet_472
+  - first:
+      213: -6087904087761234618
+    second: Young man_Spritesheet_473
+  - first:
+      213: -4741189029914231828
+    second: Young man_Spritesheet_474
+  - first:
+      213: -2696152099359000591
+    second: Young man_Spritesheet_475
+  - first:
+      213: -5652106002820899315
+    second: Young man_Spritesheet_476
+  - first:
+      213: -3324819537224435267
+    second: Young man_Spritesheet_477
+  - first:
+      213: -3871307500863137037
+    second: Young man_Spritesheet_478
+  - first:
+      213: -5566662658203139557
+    second: Young man_Spritesheet_479
+  - first:
+      213: -8805476807648179965
+    second: Young man_Spritesheet_480
+  - first:
+      213: 2421836736065322652
+    second: Young man_Spritesheet_481
+  - first:
+      213: 5509543728651020111
+    second: Young man_Spritesheet_482
+  - first:
+      213: -2283817167461575634
+    second: Young man_Spritesheet_483
+  - first:
+      213: 6885952956416491821
+    second: Young man_Spritesheet_484
+  - first:
+      213: 226789554332707376
+    second: Young man_Spritesheet_485
+  - first:
+      213: -8052721887323087478
+    second: Young man_Spritesheet_486
+  - first:
+      213: -1969465395186663012
+    second: Young man_Spritesheet_487
+  - first:
+      213: -9127210057042089551
+    second: Young man_Spritesheet_488
+  - first:
+      213: -5920729048655740404
+    second: Young man_Spritesheet_489
+  - first:
+      213: -8778094809337464435
+    second: Young man_Spritesheet_490
+  - first:
+      213: -8102873391555440973
+    second: Young man_Spritesheet_491
+  - first:
+      213: -292164628179744739
+    second: Young man_Spritesheet_492
+  - first:
+      213: 7231602522362526190
+    second: Young man_Spritesheet_493
+  - first:
+      213: -2941615570312363558
+    second: Young man_Spritesheet_494
+  - first:
+      213: 75326326181071843
+    second: Young man_Spritesheet_495
+  - first:
+      213: 6669013483478295710
+    second: Young man_Spritesheet_496
+  - first:
+      213: -4127053709615606653
+    second: Young man_Spritesheet_497
+  - first:
+      213: -3116705573536245355
+    second: Young man_Spritesheet_498
+  - first:
+      213: 1299137962441533514
+    second: Young man_Spritesheet_499
+  - first:
+      213: 8810988858471406767
+    second: Young man_Spritesheet_500
+  - first:
+      213: 6139724025469951379
+    second: Young man_Spritesheet_501
+  - first:
+      213: -7656663031309074087
+    second: Young man_Spritesheet_502
+  - first:
+      213: -1483960557586150941
+    second: Young man_Spritesheet_503
+  - first:
+      213: -5930668461853257205
+    second: Young man_Spritesheet_504
+  - first:
+      213: 5827107264488095203
+    second: Young man_Spritesheet_505
+  - first:
+      213: 8693026670465861006
+    second: Young man_Spritesheet_506
+  - first:
+      213: 5060194418254675116
+    second: Young man_Spritesheet_507
+  - first:
+      213: 7111593730045064351
+    second: Young man_Spritesheet_508
+  - first:
+      213: 7550276356909474257
+    second: Young man_Spritesheet_509
+  - first:
+      213: -4346865039467884703
+    second: Young man_Spritesheet_510
+  - first:
+      213: -5874256816349152981
+    second: Young man_Spritesheet_511
+  - first:
+      213: 6703201477379243571
+    second: Young man_Spritesheet_512
+  - first:
+      213: -5753011811641464546
+    second: Young man_Spritesheet_513
+  - first:
+      213: -8841149979201566968
+    second: Young man_Spritesheet_514
+  - first:
+      213: 6650173609463374168
+    second: Young man_Spritesheet_515
+  - first:
+      213: 636549690513612071
+    second: Young man_Spritesheet_516
+  - first:
+      213: 8833891408600764206
+    second: Young man_Spritesheet_517
+  - first:
+      213: 5777478642820156676
+    second: Young man_Spritesheet_518
+  - first:
+      213: -6452973293699813149
+    second: Young man_Spritesheet_519
+  - first:
+      213: 7331589814095760073
+    second: Young man_Spritesheet_520
+  - first:
+      213: 3270733499225769353
+    second: Young man_Spritesheet_521
+  - first:
+      213: -7983113659567976117
+    second: Young man_Spritesheet_522
+  - first:
+      213: -574062788759813280
+    second: Young man_Spritesheet_523
+  - first:
+      213: -415993299873869628
+    second: Young man_Spritesheet_524
+  - first:
+      213: 3287283122843408555
+    second: Young man_Spritesheet_525
+  - first:
+      213: -8837750902421849763
+    second: Young man_Spritesheet_526
+  - first:
+      213: -4307815384452048499
+    second: Young man_Spritesheet_527
+  - first:
+      213: 7818398500038980083
+    second: Young man_Spritesheet_528
+  - first:
+      213: 3912255226404429101
+    second: Young man_Spritesheet_529
+  - first:
+      213: -7203645401540701794
+    second: Young man_Spritesheet_530
+  - first:
+      213: 268540336175681489
+    second: Young man_Spritesheet_531
+  - first:
+      213: -7985563649104176640
+    second: Young man_Spritesheet_532
+  - first:
+      213: 321507132538528204
+    second: Young man_Spritesheet_533
+  - first:
+      213: 5081038195720876435
+    second: Young man_Spritesheet_534
+  - first:
+      213: 6512727788835294422
+    second: Young man_Spritesheet_535
+  - first:
+      213: 4840445246376785218
+    second: Young man_Spritesheet_536
+  - first:
+      213: 8249803843245003212
+    second: Young man_Spritesheet_537
+  - first:
+      213: -5403821651098039994
+    second: Young man_Spritesheet_538
+  - first:
+      213: -1756942561896235089
+    second: Young man_Spritesheet_539
+  - first:
+      213: -7837363338361088393
+    second: Young man_Spritesheet_540
+  - first:
+      213: 3241161379198027017
+    second: Young man_Spritesheet_541
+  - first:
+      213: 613257688178697614
+    second: Young man_Spritesheet_542
+  - first:
+      213: -3109136590157968059
+    second: Young man_Spritesheet_543
+  - first:
+      213: 6748534747494357421
+    second: Young man_Spritesheet_544
+  - first:
+      213: -4219640443565645396
+    second: Young man_Spritesheet_545
+  - first:
+      213: 7403175105465159022
+    second: Young man_Spritesheet_546
+  - first:
+      213: -926127124223540032
+    second: Young man_Spritesheet_547
+  - first:
+      213: 4303750695158751791
+    second: Young man_Spritesheet_548
+  - first:
+      213: 4851321878930119406
+    second: Young man_Spritesheet_549
+  - first:
+      213: -1579999389537428824
+    second: Young man_Spritesheet_550
+  - first:
+      213: -1944991224731250742
+    second: Young man_Spritesheet_551
+  - first:
+      213: 8618398511048352057
+    second: Young man_Spritesheet_552
+  - first:
+      213: 7449660349903278652
+    second: Young man_Spritesheet_553
+  - first:
+      213: -1625172289213299701
+    second: Young man_Spritesheet_554
+  - first:
+      213: 3574100294445427780
+    second: Young man_Spritesheet_555
+  - first:
+      213: 8139720044699552517
+    second: Young man_Spritesheet_556
+  - first:
+      213: 7852050798979992959
+    second: Young man_Spritesheet_557
+  - first:
+      213: -4585043938671952650
+    second: Young man_Spritesheet_558
+  - first:
+      213: -7345488192681940661
+    second: Young man_Spritesheet_559
+  - first:
+      213: 3125099749711948585
+    second: Young man_Spritesheet_560
+  - first:
+      213: -8846761715395183782
+    second: Young man_Spritesheet_561
+  - first:
+      213: -4749483578066330682
+    second: Young man_Spritesheet_562
+  - first:
+      213: -4660450218973472972
+    second: Young man_Spritesheet_563
+  - first:
+      213: -6316274061591518315
+    second: Young man_Spritesheet_564
+  - first:
+      213: 8944995546540048426
+    second: Young man_Spritesheet_565
+  - first:
+      213: -8113783466753345860
+    second: Young man_Spritesheet_566
+  - first:
+      213: 5453126037280478758
+    second: Young man_Spritesheet_567
+  - first:
+      213: 4899022544370067160
+    second: Young man_Spritesheet_568
+  - first:
+      213: 3566777832740803293
+    second: Young man_Spritesheet_569
+  - first:
+      213: -8483278585257921821
+    second: Young man_Spritesheet_570
+  - first:
+      213: 1428998812655324665
+    second: Young man_Spritesheet_571
+  - first:
+      213: -694925835337506260
+    second: Young man_Spritesheet_572
+  - first:
+      213: 7622778805509401884
+    second: Young man_Spritesheet_573
+  - first:
+      213: 7985731841045643804
+    second: Young man_Spritesheet_574
+  - first:
+      213: 7745323973595688900
+    second: Young man_Spritesheet_575
+  - first:
+      213: 4680144161297552452
+    second: Young man_Spritesheet_576
+  - first:
+      213: 4537905297344528713
+    second: Young man_Spritesheet_577
+  - first:
+      213: -5476368051551471149
+    second: Young man_Spritesheet_578
+  - first:
+      213: 196674094217029055
+    second: Young man_Spritesheet_579
+  - first:
+      213: 7538180524629161388
+    second: Young man_Spritesheet_580
+  - first:
+      213: -7976210815407929140
+    second: Young man_Spritesheet_581
+  - first:
+      213: 6761416879582117494
+    second: Young man_Spritesheet_582
+  - first:
+      213: 5241953778915145525
+    second: Young man_Spritesheet_583
+  - first:
+      213: -8103643840988702444
+    second: Young man_Spritesheet_584
+  - first:
+      213: -7691822661034886475
+    second: Young man_Spritesheet_585
+  - first:
+      213: 7366021492877202849
+    second: Young man_Spritesheet_586
+  - first:
+      213: 3062497596842219051
+    second: Young man_Spritesheet_587
+  - first:
+      213: -3134277111073923369
+    second: Young man_Spritesheet_588
+  - first:
+      213: -8053734583226461642
+    second: Young man_Spritesheet_589
+  - first:
+      213: 2849661973082324143
+    second: Young man_Spritesheet_590
+  - first:
+      213: -6916895546229964657
+    second: Young man_Spritesheet_591
+  - first:
+      213: 8049357393819122940
+    second: Young man_Spritesheet_592
+  - first:
+      213: 4153171542266842969
+    second: Young man_Spritesheet_593
+  - first:
+      213: -8177410113812554731
+    second: Young man_Spritesheet_594
+  - first:
+      213: 4228222806332911178
+    second: Young man_Spritesheet_595
+  - first:
+      213: 5758991321480291091
+    second: Young man_Spritesheet_596
+  - first:
+      213: -2933816960931625179
+    second: Young man_Spritesheet_597
+  - first:
+      213: 3283876134078467415
+    second: Young man_Spritesheet_598
+  - first:
+      213: 1721488230512604289
+    second: Young man_Spritesheet_599
+  - first:
+      213: -8999680358689623253
+    second: Young man_Spritesheet_600
+  - first:
+      213: -6740799896486579649
+    second: Young man_Spritesheet_601
+  - first:
+      213: 2361229615854196075
+    second: Young man_Spritesheet_602
+  - first:
+      213: 213843608379970927
+    second: Young man_Spritesheet_603
+  - first:
+      213: -7346509819457634885
+    second: Young man_Spritesheet_604
+  - first:
+      213: 8832593591608745272
+    second: Young man_Spritesheet_605
+  - first:
+      213: -7152182978888044751
+    second: Young man_Spritesheet_606
+  - first:
+      213: 7585991003396302311
+    second: Young man_Spritesheet_607
+  - first:
+      213: 2432610938118310416
+    second: Young man_Spritesheet_608
+  - first:
+      213: 1753783350294962347
+    second: Young man_Spritesheet_609
+  - first:
+      213: -1109546257079860089
+    second: Young man_Spritesheet_610
+  - first:
+      213: -5243573139400680519
+    second: Young man_Spritesheet_611
+  - first:
+      213: 5113003110189323030
+    second: Young man_Spritesheet_612
+  - first:
+      213: 1064893229655366086
+    second: Young man_Spritesheet_613
+  - first:
+      213: 2995992716605814088
+    second: Young man_Spritesheet_614
+  - first:
+      213: -4438718745917409712
+    second: Young man_Spritesheet_615
+  - first:
+      213: -2384567444006265240
+    second: Young man_Spritesheet_616
+  - first:
+      213: 3345311141390934272
+    second: Young man_Spritesheet_617
+  - first:
+      213: -9162460737051456043
+    second: Young man_Spritesheet_618
+  - first:
+      213: -4335184092940879953
+    second: Young man_Spritesheet_619
+  - first:
+      213: 6275797689363912259
+    second: Young man_Spritesheet_620
+  - first:
+      213: 1310442956328398347
+    second: Young man_Spritesheet_621
+  - first:
+      213: -3918849340262898548
+    second: Young man_Spritesheet_622
+  - first:
+      213: -8090090667853360770
+    second: Young man_Spritesheet_623
+  - first:
+      213: 9184775211624824911
+    second: Young man_Spritesheet_624
+  - first:
+      213: 308654717456635765
+    second: Young man_Spritesheet_625
+  - first:
+      213: 4955372249532713744
+    second: Young man_Spritesheet_626
+  - first:
+      213: -2817267796936296076
+    second: Young man_Spritesheet_627
+  - first:
+      213: -4753564357621199985
+    second: Young man_Spritesheet_628
+  - first:
+      213: 570718961848819104
+    second: Young man_Spritesheet_629
+  - first:
+      213: -6711397512012589493
+    second: Young man_Spritesheet_630
+  - first:
+      213: 8041619755286140658
+    second: Young man_Spritesheet_631
+  - first:
+      213: 4918981952803974584
+    second: Young man_Spritesheet_632
+  - first:
+      213: -7183496127852149628
+    second: Young man_Spritesheet_633
+  - first:
+      213: 1505265566565559357
+    second: Young man_Spritesheet_634
+  - first:
+      213: -7833735262235809764
+    second: Young man_Spritesheet_635
+  - first:
+      213: 6240834675548946751
+    second: Young man_Spritesheet_636
+  - first:
+      213: 7001720589376027569
+    second: Young man_Spritesheet_637
+  - first:
+      213: 559446680674220816
+    second: Young man_Spritesheet_638
+  - first:
+      213: -601996597107095613
+    second: Young man_Spritesheet_639
+  - first:
+      213: -5854934883537303472
+    second: Young man_Spritesheet_640
+  - first:
+      213: -5101458577177932278
+    second: Young man_Spritesheet_641
+  - first:
+      213: -8357772947351581458
+    second: Young man_Spritesheet_642
+  - first:
+      213: 2126700295735688007
+    second: Young man_Spritesheet_643
+  - first:
+      213: 3508586842532666742
+    second: Young man_Spritesheet_644
+  - first:
+      213: 1789943325116200026
+    second: Young man_Spritesheet_645
+  - first:
+      213: 8909696922839942419
+    second: Young man_Spritesheet_646
+  - first:
+      213: -2509357028431252611
+    second: Young man_Spritesheet_647
+  - first:
+      213: 6188255576109038664
+    second: Young man_Spritesheet_648
+  - first:
+      213: -3709611592621600768
+    second: Young man_Spritesheet_649
+  - first:
+      213: -6536675993150721754
+    second: Young man_Spritesheet_650
+  - first:
+      213: -725438297048997760
+    second: Young man_Spritesheet_651
+  - first:
+      213: -6680040911232068237
+    second: Young man_Spritesheet_652
+  - first:
+      213: -8382240663327570719
+    second: Young man_Spritesheet_653
+  - first:
+      213: -4273888948849761932
+    second: Young man_Spritesheet_654
+  - first:
+      213: 3828337061242086933
+    second: Young man_Spritesheet_655
+  - first:
+      213: 14219297133003667
+    second: Young man_Spritesheet_656
+  - first:
+      213: 2489962868983350815
+    second: Young man_Spritesheet_657
+  - first:
+      213: 409892695839243222
+    second: Young man_Spritesheet_658
+  - first:
+      213: -7755194409264170972
+    second: Young man_Spritesheet_659
+  - first:
+      213: -3319881200107342601
+    second: Young man_Spritesheet_660
+  - first:
+      213: 3102463225763966948
+    second: Young man_Spritesheet_661
+  - first:
+      213: -6751127780879651414
+    second: Young man_Spritesheet_662
+  - first:
+      213: -928278989130774468
+    second: Young man_Spritesheet_663
+  - first:
+      213: 7620141259213655595
+    second: Young man_Spritesheet_664
+  - first:
+      213: -6453720350721265262
+    second: Young man_Spritesheet_665
+  - first:
+      213: -2926944285979420479
+    second: Young man_Spritesheet_666
+  - first:
+      213: 8314149151463810569
+    second: Young man_Spritesheet_667
+  - first:
+      213: -8139388860675115244
+    second: Young man_Spritesheet_668
+  - first:
+      213: -8284623723781682629
+    second: Young man_Spritesheet_669
+  - first:
+      213: 2365940281344740279
+    second: Young man_Spritesheet_670
+  - first:
+      213: -6861529169983165634
+    second: Young man_Spritesheet_671
+  - first:
+      213: -990313986854658159
+    second: Young man_Spritesheet_672
+  - first:
+      213: 4269390933444664105
+    second: Young man_Spritesheet_673
+  - first:
+      213: 3800581395274348846
+    second: Young man_Spritesheet_674
+  - first:
+      213: -1867555905831552889
+    second: Young man_Spritesheet_675
+  - first:
+      213: -4959260046455858796
+    second: Young man_Spritesheet_676
+  - first:
+      213: -5826534459305099095
+    second: Young man_Spritesheet_677
+  - first:
+      213: -1535796845481702981
+    second: Young man_Spritesheet_678
+  - first:
+      213: 5938797095583766914
+    second: Young man_Spritesheet_679
+  - first:
+      213: 966857371084811922
+    second: Young man_Spritesheet_680
+  - first:
+      213: -8686240837025937490
+    second: Young man_Spritesheet_681
+  - first:
+      213: -4101537526037108942
+    second: Young man_Spritesheet_682
+  - first:
+      213: -7346331846507435484
+    second: Young man_Spritesheet_683
+  - first:
+      213: -2566903194543999989
+    second: Young man_Spritesheet_684
+  - first:
+      213: -5801218035497619401
+    second: Young man_Spritesheet_685
+  - first:
+      213: -2107899448088584567
+    second: Young man_Spritesheet_686
+  - first:
+      213: 5404378103093046063
+    second: Young man_Spritesheet_687
+  - first:
+      213: 8718111183010252761
+    second: Young man_Spritesheet_688
+  - first:
+      213: 8654367922339862677
+    second: Young man_Spritesheet_689
+  - first:
+      213: 1839131373122621095
+    second: Young man_Spritesheet_690
+  - first:
+      213: -5368992703070082509
+    second: Young man_Spritesheet_691
+  - first:
+      213: 6856352646352305137
+    second: Young man_Spritesheet_692
+  - first:
+      213: -8507707885038585785
+    second: Young man_Spritesheet_693
+  - first:
+      213: 3041757065959867126
+    second: Young man_Spritesheet_694
+  - first:
+      213: -5317787440249900096
+    second: Young man_Spritesheet_695
+  - first:
+      213: -2661077465188918852
+    second: Young man_Spritesheet_696
+  - first:
+      213: 2379884310031604002
+    second: Young man_Spritesheet_697
+  - first:
+      213: 279303168942834250
+    second: Young man_Spritesheet_698
+  - first:
+      213: 9158386001818595911
+    second: Young man_Spritesheet_699
+  - first:
+      213: -3800863454204660697
+    second: Young man_Spritesheet_700
+  - first:
+      213: -3322031017311106783
+    second: Young man_Spritesheet_701
+  - first:
+      213: 1193440528130733828
+    second: Young man_Spritesheet_702
+  - first:
+      213: 2466357749062888499
+    second: Young man_Spritesheet_703
+  - first:
+      213: 6182541625454076187
+    second: Young man_Spritesheet_704
+  - first:
+      213: 7589083304316459395
+    second: Young man_Spritesheet_705
+  - first:
+      213: 4436247655335615578
+    second: Young man_Spritesheet_706
+  - first:
+      213: 4021511320096164543
+    second: Young man_Spritesheet_707
+  - first:
+      213: 1295296234604350234
+    second: Young man_Spritesheet_708
+  - first:
+      213: 4162668031478392358
+    second: Young man_Spritesheet_709
+  - first:
+      213: 5757941873696109942
+    second: Young man_Spritesheet_710
+  - first:
+      213: 1133743597607659185
+    second: Young man_Spritesheet_711
+  - first:
+      213: -8810938917848453181
+    second: Young man_Spritesheet_712
+  - first:
+      213: -3128599588997738302
+    second: Young man_Spritesheet_713
+  - first:
+      213: -7886447763265694041
+    second: Young man_Spritesheet_714
+  - first:
+      213: 1888074686592369063
+    second: Young man_Spritesheet_715
+  - first:
+      213: 8065605268754465223
+    second: Young man_Spritesheet_716
+  - first:
+      213: -4190063427847020971
+    second: Young man_Spritesheet_717
+  - first:
+      213: 2293492683005704511
+    second: Young man_Spritesheet_718
+  - first:
+      213: -5820126955467544405
+    second: Young man_Spritesheet_719
+  - first:
+      213: -3368753529962678352
+    second: Young man_Spritesheet_720
+  - first:
+      213: -4004875823835149568
+    second: Young man_Spritesheet_721
+  - first:
+      213: -5680668455569434061
+    second: Young man_Spritesheet_722
+  - first:
+      213: -2715113509810176762
+    second: Young man_Spritesheet_723
+  - first:
+      213: -8569128586780062883
+    second: Young man_Spritesheet_724
+  - first:
+      213: 745194054636089271
+    second: Young man_Spritesheet_725
+  - first:
+      213: -5687689269145572188
+    second: Young man_Spritesheet_726
+  - first:
+      213: -6746126079360307819
+    second: Young man_Spritesheet_727
+  - first:
+      213: -2910539415873705224
+    second: Young man_Spritesheet_728
+  - first:
+      213: 6470458053520965119
+    second: Young man_Spritesheet_729
+  - first:
+      213: -4637670107456433877
+    second: Young man_Spritesheet_730
+  - first:
+      213: -1371918740884715993
+    second: Young man_Spritesheet_731
+  - first:
+      213: -8021355984516124845
+    second: Young man_Spritesheet_732
+  - first:
+      213: -7277373412707217644
+    second: Young man_Spritesheet_733
+  - first:
+      213: 8026597855969642714
+    second: Young man_Spritesheet_734
+  - first:
+      213: 5201751901401748271
+    second: Young man_Spritesheet_735
+  - first:
+      213: 3700196289475679781
+    second: Young man_Spritesheet_736
+  - first:
+      213: -2780656455046141356
+    second: Young man_Spritesheet_737
+  - first:
+      213: -9037907596657669693
+    second: Young man_Spritesheet_738
+  - first:
+      213: -5719462894810349882
+    second: Young man_Spritesheet_739
+  - first:
+      213: 2576721238957758889
+    second: Young man_Spritesheet_740
+  - first:
+      213: -7915453362345720606
+    second: Young man_Spritesheet_741
+  - first:
+      213: 8087650871647050707
+    second: Young man_Spritesheet_742
+  - first:
+      213: -8932873370983435837
+    second: Young man_Spritesheet_743
+  - first:
+      213: 272516887725872386
+    second: Young man_Spritesheet_744
+  - first:
+      213: -3625211085955508383
+    second: Young man_Spritesheet_745
+  - first:
+      213: -2039165362534266128
+    second: Young man_Spritesheet_746
+  - first:
+      213: 4869276769851433719
+    second: Young man_Spritesheet_747
+  - first:
+      213: -4782948830830858668
+    second: Young man_Spritesheet_748
+  - first:
+      213: -8095021175474172545
+    second: Young man_Spritesheet_749
+  - first:
+      213: 1075234991011238962
+    second: Young man_Spritesheet_750
+  - first:
+      213: 1481588650788183154
+    second: Young man_Spritesheet_751
+  - first:
+      213: -4897658124969843021
+    second: Young man_Spritesheet_752
+  - first:
+      213: 8743886766953340476
+    second: Young man_Spritesheet_753
+  - first:
+      213: 3251381954350331626
+    second: Young man_Spritesheet_754
+  - first:
+      213: 5937105409481798057
+    second: Young man_Spritesheet_755
+  - first:
+      213: -4316160227406782655
+    second: Young man_Spritesheet_756
+  - first:
+      213: -7235513479088736798
+    second: Young man_Spritesheet_757
+  - first:
+      213: -7882488845436388746
+    second: Young man_Spritesheet_758
+  - first:
+      213: -2790134612591348053
+    second: Young man_Spritesheet_759
+  - first:
+      213: -3341587349110936565
+    second: Young man_Spritesheet_760
+  - first:
+      213: 4763759085612079892
+    second: Young man_Spritesheet_761
+  - first:
+      213: 6811241847300469019
+    second: Young man_Spritesheet_762
+  - first:
+      213: -2475888359888556969
+    second: Young man_Spritesheet_763
+  - first:
+      213: -3732272339489140373
+    second: Young man_Spritesheet_764
+  - first:
+      213: 1743149922786028278
+    second: Young man_Spritesheet_765
+  - first:
+      213: 3441473265268814866
+    second: Young man_Spritesheet_766
+  - first:
+      213: 7642735842176543808
+    second: Young man_Spritesheet_767
+  - first:
+      213: 5432121156206091117
+    second: Young man_Spritesheet_768
+  - first:
+      213: 1911387166119950848
+    second: Young man_Spritesheet_769
+  - first:
+      213: -5693394244477039717
+    second: Young man_Spritesheet_770
+  - first:
+      213: -34818636246084992
+    second: Young man_Spritesheet_771
+  - first:
+      213: 3705449680908711409
+    second: Young man_Spritesheet_772
+  - first:
+      213: 7656752645001186805
+    second: Young man_Spritesheet_773
+  - first:
+      213: -8335632817632341874
+    second: Young man_Spritesheet_774
+  - first:
+      213: -8234432644355199277
+    second: Young man_Spritesheet_775
+  - first:
+      213: 2495614078382187956
+    second: Young man_Spritesheet_776
+  - first:
+      213: -5796664872697676494
+    second: Young man_Spritesheet_777
+  - first:
+      213: 7831872038740983136
+    second: Young man_Spritesheet_778
+  - first:
+      213: 9179826704470657149
+    second: Young man_Spritesheet_779
+  - first:
+      213: -5700704138714184137
+    second: Young man_Spritesheet_780
+  - first:
+      213: 6842699570819499471
+    second: Young man_Spritesheet_781
+  - first:
+      213: -7950568016920850805
+    second: Young man_Spritesheet_782
+  - first:
+      213: -2894256850679009792
+    second: Young man_Spritesheet_783
+  - first:
+      213: -2816040672009637812
+    second: Young man_Spritesheet_784
+  - first:
+      213: -2870729397100329750
+    second: Young man_Spritesheet_785
+  - first:
+      213: -8999440522481639090
+    second: Young man_Spritesheet_786
+  - first:
+      213: 973629163822412257
+    second: Young man_Spritesheet_787
+  - first:
+      213: -1220452861175468124
+    second: Young man_Spritesheet_788
+  - first:
+      213: -8456385523029586272
+    second: Young man_Spritesheet_789
+  - first:
+      213: 5975717852542399532
+    second: Young man_Spritesheet_790
+  - first:
+      213: -8045528596489690770
+    second: Young man_Spritesheet_791
+  - first:
+      213: 3107949161467394353
+    second: Young man_Spritesheet_792
+  - first:
+      213: 4822236530975803389
+    second: Young man_Spritesheet_793
+  - first:
+      213: 6469010674615811400
+    second: Young man_Spritesheet_794
+  - first:
+      213: 3185459626506956789
+    second: Young man_Spritesheet_795
+  - first:
+      213: 4785457522804882470
+    second: Young man_Spritesheet_796
+  - first:
+      213: -8381271147014612169
+    second: Young man_Spritesheet_797
+  - first:
+      213: 5916712217391717271
+    second: Young man_Spritesheet_798
+  - first:
+      213: -5386319709171955027
+    second: Young man_Spritesheet_799
+  - first:
+      213: 1315387078772512001
+    second: Young man_Spritesheet_800
+  - first:
+      213: -5590630745322403705
+    second: Young man_Spritesheet_801
+  - first:
+      213: 4445728699720463514
+    second: Young man_Spritesheet_802
+  - first:
+      213: 6327087825292537495
+    second: Young man_Spritesheet_803
+  - first:
+      213: 7484578671732389176
+    second: Young man_Spritesheet_804
+  - first:
+      213: 1230499649364360713
+    second: Young man_Spritesheet_805
+  - first:
+      213: -8556658256164576504
+    second: Young man_Spritesheet_806
+  - first:
+      213: 6132077159117887554
+    second: Young man_Spritesheet_807
+  - first:
+      213: 5942977802970411698
+    second: Young man_Spritesheet_808
+  - first:
+      213: -2943912846632325165
+    second: Young man_Spritesheet_809
+  - first:
+      213: -8139155598480990929
+    second: Young man_Spritesheet_810
+  - first:
+      213: -5885630504364773851
+    second: Young man_Spritesheet_811
+  - first:
+      213: -7295825967333672217
+    second: Young man_Spritesheet_812
+  - first:
+      213: -3491883468776278201
+    second: Young man_Spritesheet_813
+  - first:
+      213: 8598953478036189944
+    second: Young man_Spritesheet_814
+  - first:
+      213: 7735194989526161809
+    second: Young man_Spritesheet_815
+  - first:
+      213: -8486019111043683714
+    second: Young man_Spritesheet_816
+  - first:
+      213: 7660829152412712996
+    second: Young man_Spritesheet_817
+  - first:
+      213: 3708203787545500456
+    second: Young man_Spritesheet_818
+  - first:
+      213: -4604726148968178855
+    second: Young man_Spritesheet_819
+  - first:
+      213: 7929596343524749418
+    second: Young man_Spritesheet_820
+  - first:
+      213: 5086610597796292224
+    second: Young man_Spritesheet_821
+  - first:
+      213: -4653114495569571382
+    second: Young man_Spritesheet_822
+  - first:
+      213: -6520318026078971235
+    second: Young man_Spritesheet_823
+  - first:
+      213: 5564663002114119738
+    second: Young man_Spritesheet_824
+  - first:
+      213: -8806887885663317865
+    second: Young man_Spritesheet_825
+  - first:
+      213: 5361417555085549780
+    second: Young man_Spritesheet_826
+  - first:
+      213: 219124861222254142
+    second: Young man_Spritesheet_827
+  - first:
+      213: -2758828265939382821
+    second: Young man_Spritesheet_828
+  - first:
+      213: -6743014310471474439
+    second: Young man_Spritesheet_829
+  - first:
+      213: 1690147878796099384
+    second: Young man_Spritesheet_830
+  - first:
+      213: 3267317180768847881
+    second: Young man_Spritesheet_831
+  - first:
+      213: -5149201345793608411
+    second: Young man_Spritesheet_832
+  - first:
+      213: -7596259604355615508
+    second: Young man_Spritesheet_833
+  - first:
+      213: -3203461561621570099
+    second: Young man_Spritesheet_834
+  - first:
+      213: 3724574383642081423
+    second: Young man_Spritesheet_835
+  - first:
+      213: -3438820431094923462
+    second: Young man_Spritesheet_836
+  - first:
+      213: -5770493232058846725
+    second: Young man_Spritesheet_837
+  - first:
+      213: -5140139002731358628
+    second: Young man_Spritesheet_838
+  - first:
+      213: 2698584918048059876
+    second: Young man_Spritesheet_839
+  - first:
+      213: -1170963456945153819
+    second: Young man_Spritesheet_840
+  - first:
+      213: -8602400736634614002
+    second: Young man_Spritesheet_841
+  - first:
+      213: -5030841164473746162
+    second: Young man_Spritesheet_842
+  - first:
+      213: 934236910129979316
+    second: Young man_Spritesheet_843
+  - first:
+      213: -7373100320541566280
+    second: Young man_Spritesheet_844
+  - first:
+      213: -5849692967550105499
+    second: Young man_Spritesheet_845
+  - first:
+      213: -1688234736158951687
+    second: Young man_Spritesheet_846
+  - first:
+      213: -2261877822346814528
+    second: Young man_Spritesheet_847
+  - first:
+      213: 257529175081325324
+    second: Young man_Spritesheet_848
+  - first:
+      213: 5279175979935287189
+    second: Young man_Spritesheet_849
+  - first:
+      213: 1199400309303300253
+    second: Young man_Spritesheet_850
+  - first:
+      213: -3377537029380012905
+    second: Young man_Spritesheet_851
+  - first:
+      213: 4716317957426173377
+    second: Young man_Spritesheet_852
+  - first:
+      213: -435658026875854790
+    second: Young man_Spritesheet_853
+  - first:
+      213: -3544064463312470148
+    second: Young man_Spritesheet_854
+  - first:
+      213: -293963627420004270
+    second: Young man_Spritesheet_855
+  - first:
+      213: -8704828197377694511
+    second: Young man_Spritesheet_856
+  - first:
+      213: -6980142824628410067
+    second: Young man_Spritesheet_857
+  - first:
+      213: 5302989100699389692
+    second: Young man_Spritesheet_858
+  - first:
+      213: -4774617702733091658
+    second: Young man_Spritesheet_859
+  - first:
+      213: -1112688932244477395
+    second: Young man_Spritesheet_860
+  - first:
+      213: 4752562306847764794
+    second: Young man_Spritesheet_861
+  - first:
+      213: -6833076714804688041
+    second: Young man_Spritesheet_862
+  - first:
+      213: 2623667543051264283
+    second: Young man_Spritesheet_863
+  - first:
+      213: -2153555677680788634
+    second: Young man_Spritesheet_864
+  - first:
+      213: 6684885646245555358
+    second: Young man_Spritesheet_865
+  - first:
+      213: 5412030519778165811
+    second: Young man_Spritesheet_866
+  - first:
+      213: 7717363026176282164
+    second: Young man_Spritesheet_867
+  - first:
+      213: -8922432091687412390
+    second: Young man_Spritesheet_868
+  - first:
+      213: -5851486454147250950
+    second: Young man_Spritesheet_869
+  - first:
+      213: -713791147072905410
+    second: Young man_Spritesheet_870
+  - first:
+      213: 1593273577165429314
+    second: Young man_Spritesheet_871
+  - first:
+      213: 6042245106077894621
+    second: Young man_Spritesheet_872
+  - first:
+      213: -1772530401661912510
+    second: Young man_Spritesheet_873
+  - first:
+      213: 2312372305461566838
+    second: Young man_Spritesheet_874
+  - first:
+      213: -7179647874841838358
+    second: Young man_Spritesheet_875
+  - first:
+      213: -3547303936470771308
+    second: Young man_Spritesheet_876
+  - first:
+      213: 7936429914386841539
+    second: Young man_Spritesheet_877
+  - first:
+      213: 1462467725873039993
+    second: Young man_Spritesheet_878
+  - first:
+      213: -341557145833244737
+    second: Young man_Spritesheet_879
+  - first:
+      213: 8186387425016812184
+    second: Young man_Spritesheet_880
+  - first:
+      213: -5989986145331219322
+    second: Young man_Spritesheet_881
+  - first:
+      213: -1198898004656938500
+    second: Young man_Spritesheet_882
+  - first:
+      213: 3127600795446961859
+    second: Young man_Spritesheet_883
+  - first:
+      213: 8409488897367907045
+    second: Young man_Spritesheet_884
+  - first:
+      213: 1812305514857574395
+    second: Young man_Spritesheet_885
+  - first:
+      213: -4572621504832105373
+    second: Young man_Spritesheet_886
+  - first:
+      213: 745895832775753647
+    second: Young man_Spritesheet_887
+  - first:
+      213: -8276951643817166975
+    second: Young man_Spritesheet_888
+  - first:
+      213: -1789459473707546906
+    second: Young man_Spritesheet_889
+  - first:
+      213: -4371238263423725671
+    second: Young man_Spritesheet_890
+  - first:
+      213: -2105107225601245717
+    second: Young man_Spritesheet_891
+  - first:
+      213: 8993329803910723835
+    second: Young man_Spritesheet_892
+  - first:
+      213: 491421976121160720
+    second: Young man_Spritesheet_893
+  - first:
+      213: 1250446194510700380
+    second: Young man_Spritesheet_894
+  - first:
+      213: -5411631730293133678
+    second: Young man_Spritesheet_895
+  - first:
+      213: 533898087761732799
+    second: Young man_Spritesheet_896
+  - first:
+      213: -1284517442476898813
+    second: Young man_Spritesheet_897
+  - first:
+      213: -3093696105212118606
+    second: Young man_Spritesheet_898
+  - first:
+      213: -115167780445903381
+    second: Young man_Spritesheet_899
+  - first:
+      213: -2377431296071988108
+    second: Young man_Spritesheet_900
+  - first:
+      213: -1741698797032615554
+    second: Young man_Spritesheet_901
+  - first:
+      213: 3391393422972482067
+    second: Young man_Spritesheet_902
+  - first:
+      213: -7140134665293743248
+    second: Young man_Spritesheet_903
+  - first:
+      213: -2731827190344380171
+    second: Young man_Spritesheet_904
+  - first:
+      213: 3443678030943478312
+    second: Young man_Spritesheet_905
+  - first:
+      213: -863660090991509147
+    second: Young man_Spritesheet_906
+  - first:
+      213: 5277275194533923225
+    second: Young man_Spritesheet_907
+  - first:
+      213: 5312529669618471115
+    second: Young man_Spritesheet_908
+  - first:
+      213: -3337072156910519488
+    second: Young man_Spritesheet_909
+  - first:
+      213: -5022968909852119180
+    second: Young man_Spritesheet_910
+  - first:
+      213: 5300913677590197857
+    second: Young man_Spritesheet_911
+  - first:
+      213: 5933348445311729398
+    second: Young man_Spritesheet_912
+  - first:
+      213: 2940607521692881688
+    second: Young man_Spritesheet_913
+  - first:
+      213: -2881745152098271396
+    second: Young man_Spritesheet_914
+  - first:
+      213: 7484020396730691087
+    second: Young man_Spritesheet_915
+  - first:
+      213: 2553448049650654604
+    second: Young man_Spritesheet_916
+  - first:
+      213: -5804661441070809147
+    second: Young man_Spritesheet_917
+  - first:
+      213: -3507152530367468645
+    second: Young man_Spritesheet_918
+  - first:
+      213: 2271550988548925812
+    second: Young man_Spritesheet_919
+  - first:
+      213: -7288663165290227635
+    second: Young man_Spritesheet_920
+  - first:
+      213: -7932422324458186465
+    second: Young man_Spritesheet_921
+  - first:
+      213: 3186326570428084320
+    second: Young man_Spritesheet_922
+  - first:
+      213: -8616598202664543732
+    second: Young man_Spritesheet_923
+  - first:
+      213: -7748455209406587094
+    second: Young man_Spritesheet_924
+  - first:
+      213: 3896909190946522110
+    second: Young man_Spritesheet_925
+  - first:
+      213: -9020007472901483368
+    second: Young man_Spritesheet_926
+  - first:
+      213: 4920804363703935554
+    second: Young man_Spritesheet_927
+  - first:
+      213: 4839610755655073064
+    second: Young man_Spritesheet_928
+  - first:
+      213: -190973563674522800
+    second: Young man_Spritesheet_929
+  - first:
+      213: -5600512959365379918
+    second: Young man_Spritesheet_930
+  - first:
+      213: -1065797221369146537
+    second: Young man_Spritesheet_931
+  - first:
+      213: 2821585494443980789
+    second: Young man_Spritesheet_932
+  - first:
+      213: 1529974855685630964
+    second: Young man_Spritesheet_933
+  - first:
+      213: -1648221108361607566
+    second: Young man_Spritesheet_934
+  - first:
+      213: -447381644475925839
+    second: Young man_Spritesheet_935
+  - first:
+      213: 6113534422913590284
+    second: Young man_Spritesheet_936
+  - first:
+      213: -6405906470555160230
+    second: Young man_Spritesheet_937
+  - first:
+      213: 5288831429905994589
+    second: Young man_Spritesheet_938
+  - first:
+      213: 2771863540720544103
+    second: Young man_Spritesheet_939
+  - first:
+      213: -8321802615185592940
+    second: Young man_Spritesheet_940
+  - first:
+      213: 8833596594917218841
+    second: Young man_Spritesheet_941
+  - first:
+      213: 2105225477760192351
+    second: Young man_Spritesheet_942
+  - first:
+      213: 1827734639235007668
+    second: Young man_Spritesheet_943
+  - first:
+      213: 1616856487672662373
+    second: Young man_Spritesheet_944
+  - first:
+      213: 9185074133936506956
+    second: Young man_Spritesheet_945
+  - first:
+      213: 9012607117537848683
+    second: Young man_Spritesheet_946
+  - first:
+      213: 7991911521678087835
+    second: Young man_Spritesheet_947
+  - first:
+      213: -4894865583928001603
+    second: Young man_Spritesheet_948
+  - first:
+      213: -901888783388853613
+    second: Young man_Spritesheet_949
+  - first:
+      213: -5345178526214238313
+    second: Young man_Spritesheet_950
+  - first:
+      213: -3923308023588481148
+    second: Young man_Spritesheet_951
+  - first:
+      213: 2228059590797829849
+    second: Young man_Spritesheet_952
+  - first:
+      213: 4943534554256697739
+    second: Young man_Spritesheet_953
+  - first:
+      213: 8593361806164061618
+    second: Young man_Spritesheet_954
+  - first:
+      213: 4656609806195293406
+    second: Young man_Spritesheet_955
+  - first:
+      213: -2004792516439224070
+    second: Young man_Spritesheet_956
+  - first:
+      213: -7918650010220855405
+    second: Young man_Spritesheet_957
+  - first:
+      213: 8627146631719595451
+    second: Young man_Spritesheet_958
+  - first:
+      213: -3809252455560511769
+    second: Young man_Spritesheet_959
+  - first:
+      213: 6669110543835296575
+    second: Young man_Spritesheet_960
+  - first:
+      213: 2364568812467277698
+    second: Young man_Spritesheet_961
+  - first:
+      213: 3680823014050519510
+    second: Young man_Spritesheet_962
+  - first:
+      213: -9125902702818359497
+    second: Young man_Spritesheet_963
+  - first:
+      213: 3032115750560409386
+    second: Young man_Spritesheet_964
+  - first:
+      213: -3528755977309324794
+    second: Young man_Spritesheet_965
+  - first:
+      213: 5218259771209242824
+    second: Young man_Spritesheet_966
+  - first:
+      213: -4837327296288901647
+    second: Young man_Spritesheet_967
+  - first:
+      213: 7239394177761929273
+    second: Young man_Spritesheet_968
+  - first:
+      213: 2167139284206619200
+    second: Young man_Spritesheet_969
+  - first:
+      213: 1504765791152444487
+    second: Young man_Spritesheet_970
+  - first:
+      213: -1280794189427741556
+    second: Young man_Spritesheet_971
+  - first:
+      213: -1326789897466381733
+    second: Young man_Spritesheet_972
+  - first:
+      213: 5464413454330962638
+    second: Young man_Spritesheet_973
+  - first:
+      213: 5384707707501871115
+    second: Young man_Spritesheet_974
+  - first:
+      213: 271300516989844154
+    second: Young man_Spritesheet_975
+  - first:
+      213: -452706854696744687
+    second: Young man_Spritesheet_976
+  - first:
+      213: -5365776537684772972
+    second: Young man_Spritesheet_977
+  - first:
+      213: -8425256454776319341
+    second: Young man_Spritesheet_978
+  - first:
+      213: 7209994498298130109
+    second: Young man_Spritesheet_979
+  - first:
+      213: 3468039384265687263
+    second: Young man_Spritesheet_980
+  - first:
+      213: -3538459895023167053
+    second: Young man_Spritesheet_981
+  - first:
+      213: 7262722516016127720
+    second: Young man_Spritesheet_982
+  - first:
+      213: -4018727917344212170
+    second: Young man_Spritesheet_983
+  - first:
+      213: 2324534063151340437
+    second: Young man_Spritesheet_984
+  - first:
+      213: -8526429125772532107
+    second: Young man_Spritesheet_985
+  - first:
+      213: -4344747142332576885
+    second: Young man_Spritesheet_986
+  - first:
+      213: -4593257902965451266
+    second: Young man_Spritesheet_987
+  - first:
+      213: 231324475242622174
+    second: Young man_Spritesheet_988
+  - first:
+      213: -7245730536468741112
+    second: Young man_Spritesheet_989
+  - first:
+      213: 6366537983164999569
+    second: Young man_Spritesheet_990
+  - first:
+      213: 1876733345722348548
+    second: Young man_Spritesheet_991
+  - first:
+      213: -9055843792120877574
+    second: Young man_Spritesheet_992
+  - first:
+      213: 5826540065302132076
+    second: Young man_Spritesheet_993
+  - first:
+      213: -6712813158042521651
+    second: Young man_Spritesheet_994
+  - first:
+      213: 2048682704754209081
+    second: Young man_Spritesheet_995
+  - first:
+      213: -7263957170776205901
+    second: Young man_Spritesheet_996
+  - first:
+      213: 578952701502895604
+    second: Young man_Spritesheet_997
+  - first:
+      213: 4829595726444321555
+    second: Young man_Spritesheet_998
+  - first:
+      213: -1157310874195362083
+    second: Young man_Spritesheet_999
+  - first:
+      213: -5980111447854418420
+    second: Young man_Spritesheet_1000
+  - first:
+      213: -8755991672335411207
+    second: Young man_Spritesheet_1001
+  - first:
+      213: 816602156504189408
+    second: Young man_Spritesheet_1002
+  - first:
+      213: -430064183219012636
+    second: Young man_Spritesheet_1003
+  - first:
+      213: -8056617168358570754
+    second: Young man_Spritesheet_1004
+  - first:
+      213: 4192887307490686973
+    second: Young man_Spritesheet_1005
+  - first:
+      213: 7157578183106194713
+    second: Young man_Spritesheet_1006
+  - first:
+      213: 4851208198913943927
+    second: Young man_Spritesheet_1007
+  - first:
+      213: -2140104943710651206
+    second: Young man_Spritesheet_1008
+  - first:
+      213: 6624105110372026280
+    second: Young man_Spritesheet_1009
+  - first:
+      213: 6141299595462660568
+    second: Young man_Spritesheet_1010
+  - first:
+      213: 2958966193400943141
+    second: Young man_Spritesheet_1011
+  - first:
+      213: -3587821030657327913
+    second: Young man_Spritesheet_1012
+  - first:
+      213: -6706140580739031596
+    second: Young man_Spritesheet_1013
+  - first:
+      213: -1909526550365967322
+    second: Young man_Spritesheet_1014
+  - first:
+      213: 5559511593634092577
+    second: Young man_Spritesheet_1015
+  - first:
+      213: -9214123675030956871
+    second: Young man_Spritesheet_1016
+  - first:
+      213: 8468405547756689187
+    second: Young man_Spritesheet_1017
+  - first:
+      213: 8123285552107524172
+    second: Young man_Spritesheet_1018
+  - first:
+      213: 5727352298422404967
+    second: Young man_Spritesheet_1019
+  - first:
+      213: 3972202339384637512
+    second: Young man_Spritesheet_1020
+  - first:
+      213: -2786504977379911061
+    second: Young man_Spritesheet_1021
+  - first:
+      213: -3160485323479314408
+    second: Young man_Spritesheet_1022
+  - first:
+      213: 8369933837899256112
+    second: Young man_Spritesheet_1023
+  - first:
+      213: -5372509245745481652
+    second: Young man_Spritesheet_1024
+  - first:
+      213: -4888677116841422472
+    second: Young man_Spritesheet_1025
+  - first:
+      213: 3070628889960020950
+    second: Young man_Spritesheet_1026
+  - first:
+      213: 2603880086926906118
+    second: Young man_Spritesheet_1027
+  - first:
+      213: -3672562072197640483
+    second: Young man_Spritesheet_1028
+  - first:
+      213: 8162456573349565642
+    second: Young man_Spritesheet_1029
+  - first:
+      213: -4655748194743163078
+    second: Young man_Spritesheet_1030
+  - first:
+      213: -712218072008528989
+    second: Young man_Spritesheet_1031
+  - first:
+      213: 7575635037724710109
+    second: Young man_Spritesheet_1032
+  - first:
+      213: 7612322153822796965
+    second: Young man_Spritesheet_1033
+  - first:
+      213: 4059827736612057095
+    second: Young man_Spritesheet_1034
+  - first:
+      213: 3091960498520547178
+    second: Young man_Spritesheet_1035
+  - first:
+      213: 291972381840523408
+    second: Young man_Spritesheet_1036
+  - first:
+      213: 2046231274545890045
+    second: Young man_Spritesheet_1037
+  - first:
+      213: -6080326147893515395
+    second: Young man_Spritesheet_1038
+  - first:
+      213: 3201076406664123165
+    second: Young man_Spritesheet_1039
+  - first:
+      213: 9127259719595804270
+    second: Young man_Spritesheet_1040
+  - first:
+      213: -3302964225227184020
+    second: Young man_Spritesheet_1041
+  - first:
+      213: 4774201140425612143
+    second: Young man_Spritesheet_1042
+  - first:
+      213: 5018221472202618676
+    second: Young man_Spritesheet_1043
+  - first:
+      213: 1600479734158584372
+    second: Young man_Spritesheet_1044
+  - first:
+      213: 4540106436757058851
+    second: Young man_Spritesheet_1045
+  - first:
+      213: 3114995419638437999
+    second: Young man_Spritesheet_1046
+  - first:
+      213: 3393665249999525420
+    second: Young man_Spritesheet_1047
+  - first:
+      213: 1019329600538397342
+    second: Young man_Spritesheet_1048
+  - first:
+      213: 2518942557352768234
+    second: Young man_Spritesheet_1049
+  - first:
+      213: -4755651296827577836
+    second: Young man_Spritesheet_1050
+  - first:
+      213: 3346930903283379475
+    second: Young man_Spritesheet_1051
+  - first:
+      213: 2947077231763916479
+    second: Young man_Spritesheet_1052
+  - first:
+      213: 3487210115683615033
+    second: Young man_Spritesheet_1053
+  - first:
+      213: 2134650375457272574
+    second: Young man_Spritesheet_1054
+  - first:
+      213: -6469177478775511587
+    second: Young man_Spritesheet_1055
+  - first:
+      213: -2231993966932552825
+    second: Young man_Spritesheet_1056
+  - first:
+      213: 4821561215434442546
+    second: Young man_Spritesheet_1057
+  - first:
+      213: 2149944231358751811
+    second: Young man_Spritesheet_1058
+  - first:
+      213: 6470271717097968575
+    second: Young man_Spritesheet_1059
+  - first:
+      213: 6624127433268186158
+    second: Young man_Spritesheet_1060
+  - first:
+      213: 5791458828157827505
+    second: Young man_Spritesheet_1061
+  - first:
+      213: -4039410594414064262
+    second: Young man_Spritesheet_1062
+  - first:
+      213: 48985361758479995
+    second: Young man_Spritesheet_1063
+  - first:
+      213: -6837355870907873572
+    second: Young man_Spritesheet_1064
+  - first:
+      213: 65300893031723849
+    second: Young man_Spritesheet_1065
+  - first:
+      213: -7703362021682887453
+    second: Young man_Spritesheet_1066
+  - first:
+      213: -7203165036001083498
+    second: Young man_Spritesheet_1067
+  - first:
+      213: -5092850770016809569
+    second: Young man_Spritesheet_1068
+  - first:
+      213: 7221777160663033221
+    second: Young man_Spritesheet_1069
+  - first:
+      213: -3513706397158682138
+    second: Young man_Spritesheet_1070
+  - first:
+      213: 1165016457930711167
+    second: Young man_Spritesheet_1071
+  - first:
+      213: -2540863921042060025
+    second: Young man_Spritesheet_1072
+  - first:
+      213: -2256098176334752028
+    second: Young man_Spritesheet_1073
+  - first:
+      213: 6072850581093006994
+    second: Young man_Spritesheet_1074
+  - first:
+      213: 7309421210951403065
+    second: Young man_Spritesheet_1075
+  - first:
+      213: -4473405620705607285
+    second: Young man_Spritesheet_1076
+  - first:
+      213: 3829154165364362881
+    second: Young man_Spritesheet_1077
+  - first:
+      213: -4216558787012046650
+    second: Young man_Spritesheet_1078
+  - first:
+      213: -463792819010879978
+    second: Young man_Spritesheet_1079
+  - first:
+      213: 8783852884420361726
+    second: Young man_Spritesheet_1080
+  - first:
+      213: -3331876913650008507
+    second: Young man_Spritesheet_1081
+  - first:
+      213: 2122548546541539770
+    second: Young man_Spritesheet_1082
+  - first:
+      213: 1398627055400121632
+    second: Young man_Spritesheet_1083
+  - first:
+      213: 7170105375569962675
+    second: Young man_Spritesheet_1084
+  - first:
+      213: 6172740949367675541
+    second: Young man_Spritesheet_1085
+  - first:
+      213: -2255433469840770408
+    second: Young man_Spritesheet_1086
+  - first:
+      213: -8280797826891651377
+    second: Young man_Spritesheet_1087
+  - first:
+      213: 3602196429729991723
+    second: Young man_Spritesheet_1088
+  - first:
+      213: 3622432249823393860
+    second: Young man_Spritesheet_1089
+  - first:
+      213: -6658960964216520963
+    second: Young man_Spritesheet_1090
+  - first:
+      213: -2014453832897096844
+    second: Young man_Spritesheet_1091
+  - first:
+      213: 119930601411021831
+    second: Young man_Spritesheet_1092
+  - first:
+      213: 8741848990077065258
+    second: Young man_Spritesheet_1093
+  - first:
+      213: -7082385484193160210
+    second: Young man_Spritesheet_1094
+  - first:
+      213: 558807746836311337
+    second: Young man_Spritesheet_1095
+  - first:
+      213: 4114551772280465392
+    second: Young man_Spritesheet_1096
+  - first:
+      213: -2591643482674802121
+    second: Young man_Spritesheet_1097
+  - first:
+      213: 1779092764811914605
+    second: Young man_Spritesheet_1098
+  - first:
+      213: 3976203533502824699
+    second: Young man_Spritesheet_1099
+  - first:
+      213: 8814658882524381298
+    second: Young man_Spritesheet_1100
+  - first:
+      213: 8492217232577103034
+    second: Young man_Spritesheet_1101
+  - first:
+      213: -7473509875502899731
+    second: Young man_Spritesheet_1102
+  - first:
+      213: 7703436114436181669
+    second: Young man_Spritesheet_1103
+  - first:
+      213: 2472488173430161416
+    second: Young man_Spritesheet_1104
+  - first:
+      213: 2911236419692663357
+    second: Young man_Spritesheet_1105
+  - first:
+      213: -6220471797557878732
+    second: Young man_Spritesheet_1106
+  - first:
+      213: 8901267250051088804
+    second: Young man_Spritesheet_1107
+  - first:
+      213: -3652692755412697604
+    second: Young man_Spritesheet_1108
+  - first:
+      213: -1280441557658202009
+    second: Young man_Spritesheet_1109
+  - first:
+      213: -7385555801701111895
+    second: Young man_Spritesheet_1110
+  - first:
+      213: 8481996765808976106
+    second: Young man_Spritesheet_1111
+  - first:
+      213: -3179691683033873861
+    second: Young man_Spritesheet_1112
+  - first:
+      213: 5903812034210078896
+    second: Young man_Spritesheet_1113
+  - first:
+      213: -5533176768287069031
+    second: Young man_Spritesheet_1114
+  - first:
+      213: -8406018924442820314
+    second: Young man_Spritesheet_1115
+  - first:
+      213: -674916643497511056
+    second: Young man_Spritesheet_1116
+  - first:
+      213: 7283251247334494229
+    second: Young man_Spritesheet_1117
+  - first:
+      213: 3408701029122295810
+    second: Young man_Spritesheet_1118
+  - first:
+      213: 6726511028821556370
+    second: Young man_Spritesheet_1119
+  - first:
+      213: -6817867030586236347
+    second: Young man_Spritesheet_1120
+  - first:
+      213: 8833279065159763441
+    second: Young man_Spritesheet_1121
+  - first:
+      213: 8983070641696127951
+    second: Young man_Spritesheet_1122
+  - first:
+      213: -1476941660711539481
+    second: Young man_Spritesheet_1123
+  - first:
+      213: -7033874937032873107
+    second: Young man_Spritesheet_1124
+  - first:
+      213: -895270033155772727
+    second: Young man_Spritesheet_1125
+  - first:
+      213: -5815849432148377609
+    second: Young man_Spritesheet_1126
+  - first:
+      213: 6894402176324586818
+    second: Young man_Spritesheet_1127
+  - first:
+      213: -6090718431078031684
+    second: Young man_Spritesheet_1128
+  - first:
+      213: -1967539908784227107
+    second: Young man_Spritesheet_1129
+  - first:
+      213: 2349341606481830338
+    second: Young man_Spritesheet_1130
+  - first:
+      213: 2489371320893676495
+    second: Young man_Spritesheet_1131
+  - first:
+      213: -4257017058726281246
+    second: Young man_Spritesheet_1132
+  - first:
+      213: 7646944783977474548
+    second: Young man_Spritesheet_1133
+  - first:
+      213: -1537999450549495718
+    second: Young man_Spritesheet_1134
+  - first:
+      213: 8112665310643153209
+    second: Young man_Spritesheet_1135
+  - first:
+      213: 2115692209890154373
+    second: Young man_Spritesheet_1136
+  - first:
+      213: -6994116608404480022
+    second: Young man_Spritesheet_1137
+  - first:
+      213: -5136585609415158076
+    second: Young man_Spritesheet_1138
+  - first:
+      213: 4787587945156564531
+    second: Young man_Spritesheet_1139
+  - first:
+      213: 3411289688436988230
+    second: Young man_Spritesheet_1140
+  - first:
+      213: -7043083134890063257
+    second: Young man_Spritesheet_1141
+  - first:
+      213: 8074504099303188225
+    second: Young man_Spritesheet_1142
+  - first:
+      213: -3053943870321237205
+    second: Young man_Spritesheet_1143
+  - first:
+      213: 4665311828870489062
+    second: Young man_Spritesheet_1144
+  - first:
+      213: 96538523096408083
+    second: Young man_Spritesheet_1145
+  - first:
+      213: 5393971412408778753
+    second: Young man_Spritesheet_1146
+  - first:
+      213: -5407783758138671573
+    second: Young man_Spritesheet_1147
+  - first:
+      213: 1929983125998090232
+    second: Young man_Spritesheet_1148
+  - first:
+      213: -7943228821389886849
+    second: Young man_Spritesheet_1149
+  - first:
+      213: -1031127323135290234
+    second: Young man_Spritesheet_1150
+  - first:
+      213: -1381222656067182114
+    second: Young man_Spritesheet_1151
+  - first:
+      213: 6495112607383678098
+    second: Young man_Spritesheet_1152
+  - first:
+      213: 569451459602430237
+    second: Young man_Spritesheet_1153
+  - first:
+      213: 2836797935937636218
+    second: Young man_Spritesheet_1154
+  - first:
+      213: 4668738759910869339
+    second: Young man_Spritesheet_1155
+  - first:
+      213: 5852094416676689277
+    second: Young man_Spritesheet_1156
+  - first:
+      213: -5739668804525702421
+    second: Young man_Spritesheet_1157
+  - first:
+      213: 2558482179144846539
+    second: Young man_Spritesheet_1158
+  - first:
+      213: 4074411933413405982
+    second: Young man_Spritesheet_1159
+  - first:
+      213: 2928470890822524598
+    second: Young man_Spritesheet_1160
+  - first:
+      213: -4198516993231860106
+    second: Young man_Spritesheet_1161
+  - first:
+      213: 8365945884026518505
+    second: Young man_Spritesheet_1162
+  - first:
+      213: -6550087525834954379
+    second: Young man_Spritesheet_1163
+  - first:
+      213: -1362780108098772257
+    second: Young man_Spritesheet_1164
+  - first:
+      213: 9028439534317239922
+    second: Young man_Spritesheet_1165
+  - first:
+      213: -2609507081773230899
+    second: Young man_Spritesheet_1166
+  - first:
+      213: -5070878918745054607
+    second: Young man_Spritesheet_1167
+  - first:
+      213: -3895319312305819108
+    second: Young man_Spritesheet_1168
+  - first:
+      213: -1242413031616807200
+    second: Young man_Spritesheet_1169
+  - first:
+      213: -1412434928253910945
+    second: Young man_Spritesheet_1170
+  - first:
+      213: -1323325391660729373
+    second: Young man_Spritesheet_1171
+  - first:
+      213: -8735631271691385052
+    second: Young man_Spritesheet_1172
+  - first:
+      213: -8561026685573544945
+    second: Young man_Spritesheet_1173
+  - first:
+      213: 6911747503792772133
+    second: Young man_Spritesheet_1174
+  - first:
+      213: 6147458460374253611
+    second: Young man_Spritesheet_1175
+  - first:
+      213: -8024675882476943427
+    second: Young man_Spritesheet_1176
+  - first:
+      213: -5704536983524559441
+    second: Young man_Spritesheet_1177
+  - first:
+      213: 6205824231973425517
+    second: Young man_Spritesheet_1178
+  - first:
+      213: -1451205590589631077
+    second: Young man_Spritesheet_1179
+  - first:
+      213: -4618538594317057035
+    second: Young man_Spritesheet_1180
+  - first:
+      213: 6658290675236169315
+    second: Young man_Spritesheet_1181
+  - first:
+      213: -2610329173095003693
+    second: Young man_Spritesheet_1182
+  - first:
+      213: 1030198911284650434
+    second: Young man_Spritesheet_1183
+  - first:
+      213: 2400707976053944249
+    second: Young man_Spritesheet_1184
+  - first:
+      213: 3002447161748983166
+    second: Young man_Spritesheet_1185
+  - first:
+      213: 8726371043443777799
+    second: Young man_Spritesheet_1186
+  - first:
+      213: -6389093027862265088
+    second: Young man_Spritesheet_1187
+  - first:
+      213: -3419332871260996905
+    second: Young man_Spritesheet_1188
+  - first:
+      213: -875255376966993919
+    second: Young man_Spritesheet_1189
+  - first:
+      213: 3215903470287738942
+    second: Young man_Spritesheet_1190
+  - first:
+      213: 8172245865996192998
+    second: Young man_Spritesheet_1191
+  - first:
+      213: 5885447100199892790
+    second: Young man_Spritesheet_1192
+  - first:
+      213: 146330035130428353
+    second: Young man_Spritesheet_1193
+  - first:
+      213: 5090928088815138287
+    second: Young man_Spritesheet_1194
+  - first:
+      213: -3621544825646380820
+    second: Young man_Spritesheet_1195
+  - first:
+      213: 3565638157146425682
+    second: Young man_Spritesheet_1196
+  - first:
+      213: 2704176966687426755
+    second: Young man_Spritesheet_1197
+  - first:
+      213: -1360515222731119743
+    second: Young man_Spritesheet_1198
+  - first:
+      213: 2142186954817722424
+    second: Young man_Spritesheet_1199
+  - first:
+      213: -2783155748058794901
+    second: Young man_Spritesheet_1200
+  - first:
+      213: -942384581864369940
+    second: Young man_Spritesheet_1201
+  - first:
+      213: 3594733856826489423
+    second: Young man_Spritesheet_1202
+  - first:
+      213: -646128729235144957
+    second: Young man_Spritesheet_1203
+  - first:
+      213: -3325727267571712795
+    second: Young man_Spritesheet_1204
+  - first:
+      213: -7855755694758844530
+    second: Young man_Spritesheet_1205
+  - first:
+      213: 4498561802520271375
+    second: Young man_Spritesheet_1206
+  - first:
+      213: 8782500031278757574
+    second: Young man_Spritesheet_1207
+  - first:
+      213: -32547072176073491
+    second: Young man_Spritesheet_1208
+  - first:
+      213: 3536732579678958239
+    second: Young man_Spritesheet_1209
+  - first:
+      213: 6188094614064782504
+    second: Young man_Spritesheet_1210
+  - first:
+      213: -2941412561921387999
+    second: Young man_Spritesheet_1211
+  - first:
+      213: -2602787234604294516
+    second: Young man_Spritesheet_1212
+  - first:
+      213: -6124720936353529360
+    second: Young man_Spritesheet_1213
+  - first:
+      213: -5384161794979115691
+    second: Young man_Spritesheet_1214
+  - first:
+      213: 842560930679409237
+    second: Young man_Spritesheet_1215
+  - first:
+      213: 8837039897713865872
+    second: Young man_Spritesheet_1216
+  - first:
+      213: 6616066043223337715
+    second: Young man_Spritesheet_1217
+  - first:
+      213: -1996472548972247232
+    second: Young man_Spritesheet_1218
+  - first:
+      213: 6219454446666456098
+    second: Young man_Spritesheet_1219
+  - first:
+      213: 7540320167440602495
+    second: Young man_Spritesheet_1220
+  - first:
+      213: 8924753960159647482
+    second: Young man_Spritesheet_1221
+  - first:
+      213: -2662199480874660102
+    second: Young man_Spritesheet_1222
+  - first:
+      213: 1216243065920308943
+    second: Young man_Spritesheet_1223
+  - first:
+      213: -5959665105945297443
+    second: Young man_Spritesheet_1224
+  - first:
+      213: -454007576012157398
+    second: Young man_Spritesheet_1225
+  - first:
+      213: 3685135514107738192
+    second: Young man_Spritesheet_1226
+  - first:
+      213: -4566500191474484884
+    second: Young man_Spritesheet_1227
+  - first:
+      213: -6713631891113386516
+    second: Young man_Spritesheet_1228
+  - first:
+      213: 485953930403314046
+    second: Young man_Spritesheet_1229
+  - first:
+      213: -7762516271900162059
+    second: Young man_Spritesheet_1230
+  - first:
+      213: 8739267729772047661
+    second: Young man_Spritesheet_1231
+  - first:
+      213: -8728655106044355473
+    second: Young man_Spritesheet_1232
+  - first:
+      213: -5335092128416706062
+    second: Young man_Spritesheet_1233
+  - first:
+      213: -4341157920315120659
+    second: Young man_Spritesheet_1234
+  - first:
+      213: 7001110520451475323
+    second: Young man_Spritesheet_1235
+  - first:
+      213: 4112479733136905055
+    second: Young man_Spritesheet_1236
+  - first:
+      213: -8381250209758548582
+    second: Young man_Spritesheet_1237
+  - first:
+      213: 8183959978001212809
+    second: Young man_Spritesheet_1238
+  - first:
+      213: -6213283801892528151
+    second: Young man_Spritesheet_1239
+  - first:
+      213: -3651990344928090695
+    second: Young man_Spritesheet_1240
+  - first:
+      213: -4913675612061421293
+    second: Young man_Spritesheet_1241
+  - first:
+      213: 6655920313509477048
+    second: Young man_Spritesheet_1242
+  - first:
+      213: -5112033272824267057
+    second: Young man_Spritesheet_1243
+  - first:
+      213: -8431303994344290591
+    second: Young man_Spritesheet_1244
+  - first:
+      213: 1371350104270699302
+    second: Young man_Spritesheet_1245
+  - first:
+      213: 6609183389669648747
+    second: Young man_Spritesheet_1246
+  - first:
+      213: -1628029471896829765
+    second: Young man_Spritesheet_1247
+  - first:
+      213: 3076826095482391033
+    second: Young man_Spritesheet_1248
+  - first:
+      213: 2321677576019122593
+    second: Young man_Spritesheet_1249
+  - first:
+      213: 4803304347343797164
+    second: Young man_Spritesheet_1250
+  - first:
+      213: 5016410401325059118
+    second: Young man_Spritesheet_1251
+  - first:
+      213: -4699779212460692900
+    second: Young man_Spritesheet_1252
+  - first:
+      213: 452003805397112218
+    second: Young man_Spritesheet_1253
+  - first:
+      213: -517073154684938027
+    second: Young man_Spritesheet_1254
+  - first:
+      213: -8118458062850136761
+    second: Young man_Spritesheet_1255
+  - first:
+      213: 9215891458115876223
+    second: Young man_Spritesheet_1256
+  - first:
+      213: 4515610145081143090
+    second: Young man_Spritesheet_1257
+  - first:
+      213: -4428969320214568728
+    second: Young man_Spritesheet_1258
+  - first:
+      213: 481511993559287464
+    second: Young man_Spritesheet_1259
+  - first:
+      213: 5114645909847380579
+    second: Young man_Spritesheet_1260
+  - first:
+      213: -1337043086378950159
+    second: Young man_Spritesheet_1261
+  - first:
+      213: -8959640204057422845
+    second: Young man_Spritesheet_1262
+  - first:
+      213: 1610962609069165911
+    second: Young man_Spritesheet_1263
+  - first:
+      213: 3772572083414640386
+    second: Young man_Spritesheet_1264
+  - first:
+      213: 1235279002161792008
+    second: Young man_Spritesheet_1265
+  - first:
+      213: 206840594114695259
+    second: Young man_Spritesheet_1266
+  - first:
+      213: -5459416187986847017
+    second: Young man_Spritesheet_1267
+  - first:
+      213: -6012326123751510957
+    second: Young man_Spritesheet_1268
+  - first:
+      213: 221733032525914603
+    second: Young man_Spritesheet_1269
+  - first:
+      213: -7144562402976733382
+    second: Young man_Spritesheet_1270
+  - first:
+      213: -5010824348485123006
+    second: Young man_Spritesheet_1271
+  - first:
+      213: -2968065439652358979
+    second: Young man_Spritesheet_1272
+  - first:
+      213: -7206578748610020674
+    second: Young man_Spritesheet_1273
+  - first:
+      213: -1750753866778814973
+    second: Young man_Spritesheet_1274
+  - first:
+      213: 7043818172119863690
+    second: Young man_Spritesheet_1275
+  - first:
+      213: 8504319130198400108
+    second: Young man_Spritesheet_1276
+  - first:
+      213: 4113933725550945773
+    second: Young man_Spritesheet_1277
+  - first:
+      213: 7525016170540166877
+    second: Young man_Spritesheet_1278
+  - first:
+      213: -4857790481931824292
+    second: Young man_Spritesheet_1279
+  - first:
+      213: -2005520522914143977
+    second: Young man_Spritesheet_1280
+  - first:
+      213: 653799306048836967
+    second: Young man_Spritesheet_1281
+  - first:
+      213: 4204161793410951212
+    second: Young man_Spritesheet_1282
+  - first:
+      213: -8675475392603702918
+    second: Young man_Spritesheet_1283
+  - first:
+      213: -9147693199395249624
+    second: Young man_Spritesheet_1284
+  - first:
+      213: -8402802485768672866
+    second: Young man_Spritesheet_1285
+  - first:
+      213: 2630476046719823607
+    second: Young man_Spritesheet_1286
+  - first:
+      213: -1862498025352336633
+    second: Young man_Spritesheet_1287
+  - first:
+      213: 5798577616013736885
+    second: Young man_Spritesheet_1288
+  - first:
+      213: 4606047531946947611
+    second: Young man_Spritesheet_1289
+  - first:
+      213: 6389810690190172592
+    second: Young man_Spritesheet_1290
+  - first:
+      213: 2677772335889049745
+    second: Young man_Spritesheet_1291
+  - first:
+      213: -737543422237344966
+    second: Young man_Spritesheet_1292
+  - first:
+      213: 2872354412855827400
+    second: Young man_Spritesheet_1293
+  - first:
+      213: 6310351297239316816
+    second: Young man_Spritesheet_1294
+  - first:
+      213: 5322517062446076987
+    second: Young man_Spritesheet_1295
+  - first:
+      213: -6621571086567637123
+    second: Young man_Spritesheet_1296
+  - first:
+      213: -8341964442070716281
+    second: Young man_Spritesheet_1297
+  - first:
+      213: -8284423030893894661
+    second: Young man_Spritesheet_1298
+  - first:
+      213: 6874836350162833987
+    second: Young man_Spritesheet_1299
+  - first:
+      213: -7073966707291938866
+    second: Young man_Spritesheet_1300
+  - first:
+      213: 8022129867600829269
+    second: Young man_Spritesheet_1301
+  - first:
+      213: -2281314149115772536
+    second: Young man_Spritesheet_1302
+  - first:
+      213: 5850207095958509608
+    second: Young man_Spritesheet_1303
+  - first:
+      213: 5570430071763774957
+    second: Young man_Spritesheet_1304
+  - first:
+      213: 6149135894003880292
+    second: Young man_Spritesheet_1305
+  - first:
+      213: -6493607252343622939
+    second: Young man_Spritesheet_1306
+  - first:
+      213: -4650731097810382463
+    second: Young man_Spritesheet_1307
+  - first:
+      213: 1612871966399518670
+    second: Young man_Spritesheet_1308
+  - first:
+      213: 7517232793093577994
+    second: Young man_Spritesheet_1309
+  - first:
+      213: -7650223361455480529
+    second: Young man_Spritesheet_1310
+  - first:
+      213: -4405731538935155898
+    second: Young man_Spritesheet_1311
+  - first:
+      213: -8839135838037053357
+    second: Young man_Spritesheet_1312
+  - first:
+      213: 1500720433526412657
+    second: Young man_Spritesheet_1313
+  - first:
+      213: -6292767341469702465
+    second: Young man_Spritesheet_1314
+  - first:
+      213: 6034661894259254170
+    second: Young man_Spritesheet_1315
+  - first:
+      213: 1314910962412904945
+    second: Young man_Spritesheet_1316
+  - first:
+      213: -2458955358748682577
+    second: Young man_Spritesheet_1317
+  - first:
+      213: 2900510823747616835
+    second: Young man_Spritesheet_1318
+  - first:
+      213: 4993708296382469819
+    second: Young man_Spritesheet_1319
+  - first:
+      213: -7598429787021366850
+    second: Young man_Spritesheet_1320
+  - first:
+      213: 3758935226217706882
+    second: Young man_Spritesheet_1321
+  - first:
+      213: 2043210220694509364
+    second: Young man_Spritesheet_1322
+  - first:
+      213: 3234865483817696551
+    second: Young man_Spritesheet_1323
+  - first:
+      213: -7773973705515703296
+    second: Young man_Spritesheet_1324
+  - first:
+      213: 407039252829419068
+    second: Young man_Spritesheet_1325
+  - first:
+      213: -4015821497973367383
+    second: Young man_Spritesheet_1326
+  - first:
+      213: 3622515492049425673
+    second: Young man_Spritesheet_1327
+  - first:
+      213: -743552579749251313
+    second: Young man_Spritesheet_1328
+  - first:
+      213: -8114652123019489914
+    second: Young man_Spritesheet_1329
+  - first:
+      213: 6950995932103506399
+    second: Young man_Spritesheet_1330
+  - first:
+      213: 6126901163783327577
+    second: Young man_Spritesheet_1331
+  - first:
+      213: 6582702767910987694
+    second: Young man_Spritesheet_1332
+  - first:
+      213: 6566865887816361835
+    second: Young man_Spritesheet_1333
+  - first:
+      213: 6611738900620230829
+    second: Young man_Spritesheet_1334
+  - first:
+      213: -7659225898415620000
+    second: Young man_Spritesheet_1335
+  - first:
+      213: 1618141906370804249
+    second: Young man_Spritesheet_1336
+  - first:
+      213: -4126970876034938778
+    second: Young man_Spritesheet_1337
+  - first:
+      213: 1625941364469488067
+    second: Young man_Spritesheet_1338
+  - first:
+      213: -2833718274679574311
+    second: Young man_Spritesheet_1339
+  - first:
+      213: -2464578455276427936
+    second: Young man_Spritesheet_1340
+  - first:
+      213: 4043226122649356639
+    second: Young man_Spritesheet_1341
+  - first:
+      213: -2778268900705724905
+    second: Young man_Spritesheet_1342
+  - first:
+      213: -6470193608279278151
+    second: Young man_Spritesheet_1343
+  - first:
+      213: 6930795247075871380
+    second: Young man_Spritesheet_1344
+  - first:
+      213: -5269188705402886063
+    second: Young man_Spritesheet_1345
+  - first:
+      213: -6689064369825218485
+    second: Young man_Spritesheet_1346
+  - first:
+      213: -4094114006568579142
+    second: Young man_Spritesheet_1347
+  - first:
+      213: -8169164866232733594
+    second: Young man_Spritesheet_1348
+  - first:
+      213: -846078695404896186
+    second: Young man_Spritesheet_1349
+  - first:
+      213: 1110998858373383772
+    second: Young man_Spritesheet_1350
+  - first:
+      213: -4734945222372352763
+    second: Young man_Spritesheet_1351
+  - first:
+      213: 191536948803186175
+    second: Young man_Spritesheet_1352
+  - first:
+      213: -4176920342533172584
+    second: Young man_Spritesheet_1353
+  - first:
+      213: 1211297104148437397
+    second: Young man_Spritesheet_1354
+  - first:
+      213: -3199022701924704449
+    second: Young man_Spritesheet_1355
+  - first:
+      213: 1610736917343556769
+    second: Young man_Spritesheet_1356
+  - first:
+      213: -3633442066518938575
+    second: Young man_Spritesheet_1357
+  - first:
+      213: 999410981298041712
+    second: Young man_Spritesheet_1358
+  - first:
+      213: -2147920833688270038
+    second: Young man_Spritesheet_1359
+  - first:
+      213: -4873570652365106659
+    second: Young man_Spritesheet_1360
+  - first:
+      213: -372245692189575382
+    second: Young man_Spritesheet_1361
+  - first:
+      213: -8486511625582195476
+    second: Young man_Spritesheet_1362
+  - first:
+      213: -6511972723077813044
+    second: Young man_Spritesheet_1363
+  - first:
+      213: 4117356612443629309
+    second: Young man_Spritesheet_1364
+  - first:
+      213: -1748581279140520317
+    second: Young man_Spritesheet_1365
+  - first:
+      213: -4931685611950337708
+    second: Young man_Spritesheet_1366
+  - first:
+      213: 6093200543055903572
+    second: Young man_Spritesheet_1367
+  - first:
+      213: 8693941645535281348
+    second: Young man_Spritesheet_1368
+  - first:
+      213: 2651918122259133644
+    second: Young man_Spritesheet_1369
+  - first:
+      213: 747956776688779712
+    second: Young man_Spritesheet_1370
+  - first:
+      213: -6034181545417665542
+    second: Young man_Spritesheet_1371
+  - first:
+      213: -407060786363201948
+    second: Young man_Spritesheet_1372
+  - first:
+      213: 7297279364198623054
+    second: Young man_Spritesheet_1373
+  - first:
+      213: 2151063280560611459
+    second: Young man_Spritesheet_1374
+  - first:
+      213: 7239299734906140350
+    second: Young man_Spritesheet_1375
+  - first:
+      213: 3083252208046311632
+    second: Young man_Spritesheet_1376
+  - first:
+      213: 416330294793788240
+    second: Young man_Spritesheet_1377
+  - first:
+      213: 9088527506608080466
+    second: Young man_Spritesheet_1378
+  - first:
+      213: -1230373820492256829
+    second: Young man_Spritesheet_1379
+  - first:
+      213: 5920850428643974159
+    second: Young man_Spritesheet_1380
+  - first:
+      213: -4443952365795633031
+    second: Young man_Spritesheet_1381
+  - first:
+      213: -2751246522143043444
+    second: Young man_Spritesheet_1382
+  - first:
+      213: -5293600018830402836
+    second: Young man_Spritesheet_1383
+  - first:
+      213: -2146517841294714681
+    second: Young man_Spritesheet_1384
+  - first:
+      213: -2010485187438108659
+    second: Young man_Spritesheet_1385
+  - first:
+      213: 8360162442939065774
+    second: Young man_Spritesheet_1386
+  - first:
+      213: -6228252125051484003
+    second: Young man_Spritesheet_1387
+  - first:
+      213: -4033005261411800136
+    second: Young man_Spritesheet_1388
+  - first:
+      213: -3055782119984444801
+    second: Young man_Spritesheet_1389
+  - first:
+      213: 3122102822306289445
+    second: Young man_Spritesheet_1390
+  - first:
+      213: 3352953374732491127
+    second: Young man_Spritesheet_1391
+  - first:
+      213: -1605064399526049142
+    second: Young man_Spritesheet_1392
+  - first:
+      213: 2887421434762343929
+    second: Young man_Spritesheet_1393
+  - first:
+      213: -4134804056079458559
+    second: Young man_Spritesheet_1394
+  - first:
+      213: -5602814590332319605
+    second: Young man_Spritesheet_1395
+  - first:
+      213: 4272747232413202128
+    second: Young man_Spritesheet_1396
+  - first:
+      213: 4771652641889244560
+    second: Young man_Spritesheet_1397
+  - first:
+      213: 886549588273972734
+    second: Young man_Spritesheet_1398
+  - first:
+      213: -9129381367615415733
+    second: Young man_Spritesheet_1399
+  - first:
+      213: -1958820659669520375
+    second: Young man_Spritesheet_1400
+  - first:
+      213: -4827710123821084328
+    second: Young man_Spritesheet_1401
+  - first:
+      213: 5490116308291242901
+    second: Young man_Spritesheet_1402
+  - first:
+      213: -8024954905862431682
+    second: Young man_Spritesheet_1403
+  - first:
+      213: -1142228884905506232
+    second: Young man_Spritesheet_1404
+  - first:
+      213: 2112876045005481815
+    second: Young man_Spritesheet_1405
+  - first:
+      213: -4525657342754620843
+    second: Young man_Spritesheet_1406
+  - first:
+      213: 6221877726924789916
+    second: Young man_Spritesheet_1407
+  - first:
+      213: -8688811325613908456
+    second: Young man_Spritesheet_1408
+  - first:
+      213: -7375159521121729015
+    second: Young man_Spritesheet_1409
+  - first:
+      213: -848025759770618326
+    second: Young man_Spritesheet_1410
+  - first:
+      213: 8797445371260153817
+    second: Young man_Spritesheet_1411
+  - first:
+      213: -3095949963583266957
+    second: Young man_Spritesheet_1412
+  - first:
+      213: 4670198193957466922
+    second: Young man_Spritesheet_1413
+  - first:
+      213: -7319173262534855619
+    second: Young man_Spritesheet_1414
+  - first:
+      213: 4936689428615613651
+    second: Young man_Spritesheet_1415
+  - first:
+      213: 4205816993517272362
+    second: Young man_Spritesheet_1416
+  - first:
+      213: 1294449435231546954
+    second: Young man_Spritesheet_1417
+  - first:
+      213: -7685135118020039653
+    second: Young man_Spritesheet_1418
+  - first:
+      213: 5130016726615137628
+    second: Young man_Spritesheet_1419
+  - first:
+      213: -3181016947179140542
+    second: Young man_Spritesheet_1420
+  - first:
+      213: -3993559259338721053
+    second: Young man_Spritesheet_1421
+  - first:
+      213: -8469248702182160661
+    second: Young man_Spritesheet_1422
+  - first:
+      213: -4533197676207658249
+    second: Young man_Spritesheet_1423
+  - first:
+      213: -439348956318468792
+    second: Young man_Spritesheet_1424
+  - first:
+      213: -931775087510703373
+    second: Young man_Spritesheet_1425
+  - first:
+      213: -3862204514068187774
+    second: Young man_Spritesheet_1426
+  - first:
+      213: -4255513165649773288
+    second: Young man_Spritesheet_1427
+  - first:
+      213: -2782424497676848536
+    second: Young man_Spritesheet_1428
+  - first:
+      213: -8925674952994904739
+    second: Young man_Spritesheet_1429
+  - first:
+      213: 1568978930357775205
+    second: Young man_Spritesheet_1430
+  - first:
+      213: -830573542117052124
+    second: Young man_Spritesheet_1431
+  - first:
+      213: 3191140550021101812
+    second: Young man_Spritesheet_1432
+  - first:
+      213: -6642127289735885041
+    second: Young man_Spritesheet_1433
+  - first:
+      213: -2643158221202619891
+    second: Young man_Spritesheet_1434
+  - first:
+      213: -1353973940335401542
+    second: Young man_Spritesheet_1435
+  - first:
+      213: -444487469476698548
+    second: Young man_Spritesheet_1436
+  - first:
+      213: -9201947036725967355
+    second: Young man_Spritesheet_1437
+  - first:
+      213: 4675053273973168512
+    second: Young man_Spritesheet_1438
+  - first:
+      213: 6816443436327495527
+    second: Young man_Spritesheet_1439
+  - first:
+      213: 3817965921895222711
+    second: Young man_Spritesheet_1440
+  - first:
+      213: 7297319333780783466
+    second: Young man_Spritesheet_1441
+  - first:
+      213: 6336034884931005564
+    second: Young man_Spritesheet_1442
+  - first:
+      213: -8508618451317937314
+    second: Young man_Spritesheet_1443
+  - first:
+      213: 3335425503112892129
+    second: Young man_Spritesheet_1444
+  - first:
+      213: 3468949501660933058
+    second: Young man_Spritesheet_1445
+  - first:
+      213: 9163138830675597326
+    second: Young man_Spritesheet_1446
+  - first:
+      213: 9044271721877669918
+    second: Young man_Spritesheet_1447
+  - first:
+      213: 2645632152457281997
+    second: Young man_Spritesheet_1448
+  - first:
+      213: 4829002612133909785
+    second: Young man_Spritesheet_1449
+  - first:
+      213: 836853916899761981
+    second: Young man_Spritesheet_1450
+  - first:
+      213: -3348058756699239014
+    second: Young man_Spritesheet_1451
+  - first:
+      213: 1008846247798080548
+    second: Young man_Spritesheet_1452
+  - first:
+      213: 3146427007549614257
+    second: Young man_Spritesheet_1453
+  - first:
+      213: 7249760370644882213
+    second: Young man_Spritesheet_1454
+  - first:
+      213: -6660396067976952131
+    second: Young man_Spritesheet_1455
+  - first:
+      213: -5698545012850208472
+    second: Young man_Spritesheet_1456
+  - first:
+      213: 2988583068155756342
+    second: Young man_Spritesheet_1457
+  - first:
+      213: -3675890730624672924
+    second: Young man_Spritesheet_1458
+  - first:
+      213: 8199983530945011277
+    second: Young man_Spritesheet_1459
+  - first:
+      213: -4105650286606744513
+    second: Young man_Spritesheet_1460
+  - first:
+      213: 7504609047453498947
+    second: Young man_Spritesheet_1461
+  - first:
+      213: 7943217866148213255
+    second: Young man_Spritesheet_1462
+  - first:
+      213: -7201000753460102217
+    second: Young man_Spritesheet_1463
+  - first:
+      213: 4531886187210381541
+    second: Young man_Spritesheet_1464
+  - first:
+      213: -7379051278857542611
+    second: Young man_Spritesheet_1465
+  - first:
+      213: -4281612642652713449
+    second: Young man_Spritesheet_1466
+  - first:
+      213: -6406935438219917523
+    second: Young man_Spritesheet_1467
+  - first:
+      213: 5775534654561607883
+    second: Young man_Spritesheet_1468
+  - first:
+      213: -8689560187846180346
+    second: Young man_Spritesheet_1469
+  - first:
+      213: -3457584858660545944
+    second: Young man_Spritesheet_1470
+  - first:
+      213: -5388409392427230332
+    second: Young man_Spritesheet_1471
+  - first:
+      213: -9151836481880545624
+    second: Young man_Spritesheet_1472
+  - first:
+      213: 4358085331409520684
+    second: Young man_Spritesheet_1473
+  - first:
+      213: 8277841420102238184
+    second: Young man_Spritesheet_1474
+  - first:
+      213: -6842561935798294684
+    second: Young man_Spritesheet_1475
+  - first:
+      213: 7712105498831866985
+    second: Young man_Spritesheet_1476
+  - first:
+      213: 5586178979843895859
+    second: Young man_Spritesheet_1477
+  - first:
+      213: -9075423551510328959
+    second: Young man_Spritesheet_1478
+  - first:
+      213: -5213798180785234407
+    second: Young man_Spritesheet_1479
+  - first:
+      213: -5506805149564543332
+    second: Young man_Spritesheet_1480
+  - first:
+      213: -1598372046755562262
+    second: Young man_Spritesheet_1481
+  - first:
+      213: -970755773361219113
+    second: Young man_Spritesheet_1482
+  - first:
+      213: 8204078083709368577
+    second: Young man_Spritesheet_1483
+  - first:
+      213: 8678901471873541756
+    second: Young man_Spritesheet_1484
+  - first:
+      213: -4326097801286364472
+    second: Young man_Spritesheet_1485
+  - first:
+      213: -2516809617118497776
+    second: Young man_Spritesheet_1486
+  - first:
+      213: 2927740575872958524
+    second: Young man_Spritesheet_1487
+  - first:
+      213: -7268618047481621721
+    second: Young man_Spritesheet_1488
+  - first:
+      213: 2936484667194822443
+    second: Young man_Spritesheet_1489
+  - first:
+      213: -1697784320390410629
+    second: Young man_Spritesheet_1490
+  - first:
+      213: 5390231375814877708
+    second: Young man_Spritesheet_1491
+  - first:
+      213: -4828185362859887421
+    second: Young man_Spritesheet_1492
+  - first:
+      213: -3044555235233513458
+    second: Young man_Spritesheet_1493
+  - first:
+      213: 3042082425260009186
+    second: Young man_Spritesheet_1494
+  - first:
+      213: -9116513204724162667
+    second: Young man_Spritesheet_1495
+  - first:
+      213: 3657640222284299622
+    second: Young man_Spritesheet_1496
+  - first:
+      213: 682949834188877690
+    second: Young man_Spritesheet_1497
+  - first:
+      213: 2063765627279098008
+    second: Young man_Spritesheet_1498
+  - first:
+      213: -6409221497752866734
+    second: Young man_Spritesheet_1499
+  - first:
+      213: -4789051032061146116
+    second: Young man_Spritesheet_1500
+  - first:
+      213: 8506427230746996657
+    second: Young man_Spritesheet_1501
+  - first:
+      213: -1532704571610252149
+    second: Young man_Spritesheet_1502
+  - first:
+      213: 7145649005550867131
+    second: Young man_Spritesheet_1503
+  - first:
+      213: 1097647455967682212
+    second: Young man_Spritesheet_1504
+  - first:
+      213: -3806557859425550397
+    second: Young man_Spritesheet_1505
+  - first:
+      213: 554274833770855812
+    second: Young man_Spritesheet_1506
+  - first:
+      213: 2181895038388349764
+    second: Young man_Spritesheet_1507
+  - first:
+      213: -3917978405289758439
+    second: Young man_Spritesheet_1508
+  - first:
+      213: -1143499543032401242
+    second: Young man_Spritesheet_1509
+  - first:
+      213: -4191034288392505729
+    second: Young man_Spritesheet_1510
+  - first:
+      213: -9046305566970317383
+    second: Young man_Spritesheet_1511
+  - first:
+      213: 7231554350873335681
+    second: Young man_Spritesheet_1512
+  - first:
+      213: -7747414540317405665
+    second: Young man_Spritesheet_1513
+  - first:
+      213: -3909032107833276797
+    second: Young man_Spritesheet_1514
+  - first:
+      213: -1740780047763720120
+    second: Young man_Spritesheet_1515
+  - first:
+      213: -2724592943395918098
+    second: Young man_Spritesheet_1516
+  - first:
+      213: -2844837316116653887
+    second: Young man_Spritesheet_1517
+  - first:
+      213: 4028852630206195643
+    second: Young man_Spritesheet_1518
+  - first:
+      213: 8983489049439159778
+    second: Young man_Spritesheet_1519
+  - first:
+      213: 2764683913679433501
+    second: Young man_Spritesheet_1520
+  - first:
+      213: 401602807397236625
+    second: Young man_Spritesheet_1521
+  - first:
+      213: 4304312549831676394
+    second: Young man_Spritesheet_1522
+  - first:
+      213: 3200407292374724333
+    second: Young man_Spritesheet_1523
+  - first:
+      213: 5121097843336209933
+    second: Young man_Spritesheet_1524
+  - first:
+      213: 664634038131341673
+    second: Young man_Spritesheet_1525
+  - first:
+      213: 3015875671308591888
+    second: Young man_Spritesheet_1526
+  - first:
+      213: 18000926578221021
+    second: Young man_Spritesheet_1527
+  - first:
+      213: -2730101360489970300
+    second: Young man_Spritesheet_1528
+  - first:
+      213: -2923680971007563054
+    second: Young man_Spritesheet_1529
+  - first:
+      213: -7147711572300455038
+    second: Young man_Spritesheet_1530
+  - first:
+      213: 9102520780741672362
+    second: Young man_Spritesheet_1531
+  - first:
+      213: 1436242298488164566
+    second: Young man_Spritesheet_1532
+  - first:
+      213: 8371359508800364000
+    second: Young man_Spritesheet_1533
+  - first:
+      213: -4247277542111755199
+    second: Young man_Spritesheet_1534
+  - first:
+      213: 4406454029038988213
+    second: Young man_Spritesheet_1535
+  - first:
+      213: -2541507787697764862
+    second: Young man_Spritesheet_1536
+  - first:
+      213: -6394711327335503609
+    second: Young man_Spritesheet_1537
+  - first:
+      213: 203734238738633691
+    second: Young man_Spritesheet_1538
+  - first:
+      213: 8132110972965636905
+    second: Young man_Spritesheet_1539
+  - first:
+      213: 407503717048031592
+    second: Young man_Spritesheet_1540
+  - first:
+      213: -2346627482420305013
+    second: Young man_Spritesheet_1541
+  - first:
+      213: -8918706100385876453
+    second: Young man_Spritesheet_1542
+  - first:
+      213: 7935791080439382990
+    second: Young man_Spritesheet_1543
+  - first:
+      213: 7718164634391297922
+    second: Young man_Spritesheet_1544
+  - first:
+      213: 8202381272721944801
+    second: Young man_Spritesheet_1545
+  - first:
+      213: -5901339536958118733
+    second: Young man_Spritesheet_1546
+  - first:
+      213: 6746550812560279917
+    second: Young man_Spritesheet_1547
+  - first:
+      213: -1780293213925029055
+    second: Young man_Spritesheet_1548
+  - first:
+      213: 7749548588714074903
+    second: Young man_Spritesheet_1549
+  - first:
+      213: 3819025795291990301
+    second: Young man_Spritesheet_1550
+  - first:
+      213: 4601528812528757560
+    second: Young man_Spritesheet_1551
+  - first:
+      213: 3640414003736451559
+    second: Young man_Spritesheet_1552
+  - first:
+      213: -2496961162720317166
+    second: Young man_Spritesheet_1553
+  - first:
+      213: -1119032357586788702
+    second: Young man_Spritesheet_1554
+  - first:
+      213: 1174425217193024174
+    second: Young man_Spritesheet_1555
+  - first:
+      213: 5692954600449255412
+    second: Young man_Spritesheet_1556
+  - first:
+      213: 7713817554536266169
+    second: Young man_Spritesheet_1557
+  - first:
+      213: 3383586506230121003
+    second: Young man_Spritesheet_1558
+  - first:
+      213: -1425454874099580628
+    second: Young man_Spritesheet_1559
+  - first:
+      213: 2882570505530087504
+    second: Young man_Spritesheet_1560
+  - first:
+      213: 8215795431520946650
+    second: Young man_Spritesheet_1561
+  - first:
+      213: -7843475582984682215
+    second: Young man_Spritesheet_1562
+  - first:
+      213: -5072007786655273642
+    second: Young man_Spritesheet_1563
+  - first:
+      213: -8914239612756325134
+    second: Young man_Spritesheet_1564
+  - first:
+      213: 6623395938114028743
+    second: Young man_Spritesheet_1565
+  - first:
+      213: -8570176113013186479
+    second: Young man_Spritesheet_1566
+  - first:
+      213: -1527544789115509231
+    second: Young man_Spritesheet_1567
+  - first:
+      213: -8975798491420090611
+    second: Young man_Spritesheet_1568
+  - first:
+      213: -8129220051899099345
+    second: Young man_Spritesheet_1569
+  - first:
+      213: -191694865670043866
+    second: Young man_Spritesheet_1570
+  - first:
+      213: 6852446783554217547
+    second: Young man_Spritesheet_1571
+  - first:
+      213: 7429398317701563111
+    second: Young man_Spritesheet_1572
+  - first:
+      213: -2721849121214145248
+    second: Young man_Spritesheet_1573
+  - first:
+      213: 3149698117904873911
+    second: Young man_Spritesheet_1574
+  - first:
+      213: -4893651010742527360
+    second: Young man_Spritesheet_1575
+  - first:
+      213: -415704156243633985
+    second: Young man_Spritesheet_1576
+  - first:
+      213: 1552760972556986186
+    second: Young man_Spritesheet_1577
+  - first:
+      213: 1499933402286350665
+    second: Young man_Spritesheet_1578
+  - first:
+      213: 8947787814712194197
+    second: Young man_Spritesheet_1579
+  - first:
+      213: 5860139797920826957
+    second: Young man_Spritesheet_1580
+  - first:
+      213: -6658575769350380308
+    second: Young man_Spritesheet_1581
+  - first:
+      213: -3400071232823090933
+    second: Young man_Spritesheet_1582
+  - first:
+      213: -5761405710032200526
+    second: Young man_Spritesheet_1583
+  - first:
+      213: -6930092325438589328
+    second: Young man_Spritesheet_1584
+  - first:
+      213: -1169375559246250691
+    second: Young man_Spritesheet_1585
+  - first:
+      213: 1995944397291209947
+    second: Young man_Spritesheet_1586
+  - first:
+      213: -5831043088411845010
+    second: Young man_Spritesheet_1587
+  - first:
+      213: 764013646594819091
+    second: Young man_Spritesheet_1588
+  - first:
+      213: -8765055912060577186
+    second: Young man_Spritesheet_1589
+  - first:
+      213: -396133210076630069
+    second: Young man_Spritesheet_1590
+  - first:
+      213: 4517560442880242639
+    second: Young man_Spritesheet_1591
+  - first:
+      213: -3367643527528440641
+    second: Young man_Spritesheet_1592
+  - first:
+      213: 8480492194621843024
+    second: Young man_Spritesheet_1593
+  - first:
+      213: -1969216099740211645
+    second: Young man_Spritesheet_1594
+  - first:
+      213: 7985178540387213363
+    second: Young man_Spritesheet_1595
+  - first:
+      213: -7598693653442493882
+    second: Young man_Spritesheet_1596
+  - first:
+      213: 6593297812210386167
+    second: Young man_Spritesheet_1597
+  - first:
+      213: 8297937432030763600
+    second: Young man_Spritesheet_1598
+  - first:
+      213: -3566290854753256545
+    second: Young man_Spritesheet_1599
+  - first:
+      213: 696946778535197610
+    second: Young man_Spritesheet_1600
+  - first:
+      213: -2042576868164463145
+    second: Young man_Spritesheet_1601
+  - first:
+      213: -7700924778262562879
+    second: Young man_Spritesheet_1602
+  - first:
+      213: 3745860778254066656
+    second: Young man_Spritesheet_1603
+  - first:
+      213: 7897535201045031996
+    second: Young man_Spritesheet_1604
+  - first:
+      213: 6743636019007353240
+    second: Young man_Spritesheet_1605
+  - first:
+      213: -529568527413507837
+    second: Young man_Spritesheet_1606
+  - first:
+      213: -1682440413141183414
+    second: Young man_Spritesheet_1607
+  - first:
+      213: 5740862854317932999
+    second: Young man_Spritesheet_1608
+  - first:
+      213: -7339781846723342645
+    second: Young man_Spritesheet_1609
+  - first:
+      213: -3311990765756671662
+    second: Young man_Spritesheet_1610
+  - first:
+      213: 3617189128219863941
+    second: Young man_Spritesheet_1611
+  - first:
+      213: -1085780992926229606
+    second: Young man_Spritesheet_1612
+  - first:
+      213: 8797105023620158480
+    second: Young man_Spritesheet_1613
+  - first:
+      213: -4656002409684653993
+    second: Young man_Spritesheet_1614
+  - first:
+      213: 415212116402012987
+    second: Young man_Spritesheet_1615
+  - first:
+      213: -2754034037720332653
+    second: Young man_Spritesheet_1616
+  - first:
+      213: 5077623193891134049
+    second: Young man_Spritesheet_1617
+  - first:
+      213: 4597892364151688408
+    second: Young man_Spritesheet_1618
+  - first:
+      213: -7644286472056835473
+    second: Young man_Spritesheet_1619
+  - first:
+      213: -3408184298151801910
+    second: Young man_Spritesheet_1620
+  - first:
+      213: -5455267074335040131
+    second: Young man_Spritesheet_1621
+  - first:
+      213: -1245640179448099021
+    second: Young man_Spritesheet_1622
+  - first:
+      213: -7464433660024836003
+    second: Young man_Spritesheet_1623
+  - first:
+      213: -7503817845973243555
+    second: Young man_Spritesheet_1624
+  - first:
+      213: -8714453196370175897
+    second: Young man_Spritesheet_1625
+  - first:
+      213: 2765863600939391961
+    second: Young man_Spritesheet_1626
+  - first:
+      213: -1512438655358390656
+    second: Young man_Spritesheet_1627
+  - first:
+      213: 4097306564392862140
+    second: Young man_Spritesheet_1628
+  - first:
+      213: 5917202253585435769
+    second: Young man_Spritesheet_1629
+  - first:
+      213: 3836427176104988473
+    second: Young man_Spritesheet_1630
+  - first:
+      213: 3937073547464410984
+    second: Young man_Spritesheet_1631
+  - first:
+      213: -7482458725513966552
+    second: Young man_Spritesheet_1632
+  - first:
+      213: -5549466509547276371
+    second: Young man_Spritesheet_1633
+  - first:
+      213: -3247543589333328090
+    second: Young man_Spritesheet_1634
+  - first:
+      213: -3049756619896411275
+    second: Young man_Spritesheet_1635
+  - first:
+      213: 2642599423719419262
+    second: Young man_Spritesheet_1636
+  - first:
+      213: 476597211064053268
+    second: Young man_Spritesheet_1637
+  - first:
+      213: 3351072134332480205
+    second: Young man_Spritesheet_1638
+  - first:
+      213: -2565480595640296332
+    second: Young man_Spritesheet_1639
+  - first:
+      213: -7436048732927363521
+    second: Young man_Spritesheet_1640
+  - first:
+      213: -2608159279161687908
+    second: Young man_Spritesheet_1641
+  - first:
+      213: 8189198169346756157
+    second: Young man_Spritesheet_1642
+  - first:
+      213: 5715754424939988890
+    second: Young man_Spritesheet_1643
+  - first:
+      213: -3644782860915761377
+    second: Young man_Spritesheet_1644
+  - first:
+      213: 4964010088969845448
+    second: Young man_Spritesheet_1645
+  - first:
+      213: -7382951198850613024
+    second: Young man_Spritesheet_1646
+  - first:
+      213: -4159618372396788915
+    second: Young man_Spritesheet_1647
+  - first:
+      213: 8996864236953223110
+    second: Young man_Spritesheet_1648
+  - first:
+      213: -4905559021720270961
+    second: Young man_Spritesheet_1649
+  - first:
+      213: 823363902100751418
+    second: Young man_Spritesheet_1650
+  - first:
+      213: 3256208160919549722
+    second: Young man_Spritesheet_1651
+  - first:
+      213: 8427925770615223953
+    second: Young man_Spritesheet_1652
+  - first:
+      213: 4458938823235066500
+    second: Young man_Spritesheet_1653
+  - first:
+      213: -4615988530840698662
+    second: Young man_Spritesheet_1654
+  - first:
+      213: 7020561302054636050
+    second: Young man_Spritesheet_1655
+  - first:
+      213: 7125203527615612257
+    second: Young man_Spritesheet_1656
+  - first:
+      213: 1881285444664582600
+    second: Young man_Spritesheet_1657
+  - first:
+      213: -8470182681805363553
+    second: Young man_Spritesheet_1658
+  - first:
+      213: -4298751521362772856
+    second: Young man_Spritesheet_1659
+  - first:
+      213: -6288270998743556127
+    second: Young man_Spritesheet_1660
+  - first:
+      213: -6532226947052307266
+    second: Young man_Spritesheet_1661
+  - first:
+      213: 5000966797403486661
+    second: Young man_Spritesheet_1662
+  - first:
+      213: 2899971105395607794
+    second: Young man_Spritesheet_1663
+  - first:
+      213: 8460081233886636067
+    second: Young man_Spritesheet_1664
+  - first:
+      213: -6219716599303237862
+    second: Young man_Spritesheet_1665
+  - first:
+      213: 8587056272812049604
+    second: Young man_Spritesheet_1666
+  - first:
+      213: 6032575363518959985
+    second: Young man_Spritesheet_1667
+  - first:
+      213: -7174499933636683978
+    second: Young man_Spritesheet_1668
+  - first:
+      213: -5424968887795970295
+    second: Young man_Spritesheet_1669
+  - first:
+      213: -1130089619116780528
+    second: Young man_Spritesheet_1670
+  - first:
+      213: -2333598422021898242
+    second: Young man_Spritesheet_1671
+  - first:
+      213: 1144857773196910406
+    second: Young man_Spritesheet_1672
+  - first:
+      213: -4673196433318477882
+    second: Young man_Spritesheet_1673
+  - first:
+      213: 2982385236765438485
+    second: Young man_Spritesheet_1674
+  - first:
+      213: 6719929053366737803
+    second: Young man_Spritesheet_1675
+  - first:
+      213: -2344506260253276185
+    second: Young man_Spritesheet_1676
+  - first:
+      213: -1913651762728946170
+    second: Young man_Spritesheet_1677
+  - first:
+      213: -4648868457010686308
+    second: Young man_Spritesheet_1678
+  - first:
+      213: 1642576002038170847
+    second: Young man_Spritesheet_1679
+  - first:
+      213: 1391494472100687227
+    second: Young man_Spritesheet_1680
+  - first:
+      213: -3625961665576726256
+    second: Young man_Spritesheet_1681
+  - first:
+      213: 3436447595417902849
+    second: Young man_Spritesheet_1682
+  - first:
+      213: 8966598007321198289
+    second: Young man_Spritesheet_1683
+  - first:
+      213: 7345029951732933529
+    second: Young man_Spritesheet_1684
+  - first:
+      213: -5827784194386916400
+    second: Young man_Spritesheet_1685
+  - first:
+      213: -8616605020836361679
+    second: Young man_Spritesheet_1686
+  - first:
+      213: 2337742723038188828
+    second: Young man_Spritesheet_1687
+  - first:
+      213: 2110788350101799468
+    second: Young man_Spritesheet_1688
+  - first:
+      213: -7837893508880750316
+    second: Young man_Spritesheet_1689
+  - first:
+      213: 6496026803051335761
+    second: Young man_Spritesheet_1690
+  - first:
+      213: 5709620870701443903
+    second: Young man_Spritesheet_1691
+  - first:
+      213: -3655628050477477207
+    second: Young man_Spritesheet_1692
+  - first:
+      213: -2709636455670140166
+    second: Young man_Spritesheet_1693
+  - first:
+      213: -3720496015729793177
+    second: Young man_Spritesheet_1694
+  - first:
+      213: 330809726019846249
+    second: Young man_Spritesheet_1695
+  - first:
+      213: -4322481069956459065
+    second: Young man_Spritesheet_1696
+  - first:
+      213: -5496106035299903814
+    second: Young man_Spritesheet_1697
+  - first:
+      213: 1859209155475551965
+    second: Young man_Spritesheet_1698
+  - first:
+      213: 7179153258813015788
+    second: Young man_Spritesheet_1699
+  - first:
+      213: -3987823125919666770
+    second: Young man_Spritesheet_1700
+  - first:
+      213: -3552620082152837919
+    second: Young man_Spritesheet_1701
+  - first:
+      213: 323897964689261333
+    second: Young man_Spritesheet_1702
+  - first:
+      213: 5457446494775524258
+    second: Young man_Spritesheet_1703
+  - first:
+      213: -7403125756429817257
+    second: Young man_Spritesheet_1704
+  - first:
+      213: 1413185910514168403
+    second: Young man_Spritesheet_1705
+  - first:
+      213: -5217151666132187407
+    second: Young man_Spritesheet_1706
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -23,6 +5144,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,7 +5153,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,7 +5162,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -57,6 +5179,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -85,7 +5208,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Young man_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5056
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53fb74c7b356a900800000000000000
+      internalID: 695335241215898463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleBack1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 5037
+        width: 572
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d485051b3bfd90800000000000000
+      internalID: -7062986629127547129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkForward
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 5037
+        width: 690
+        height: 1414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf31b2ff9e58fe10800000000000000
+      internalID: 2231637656426594228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young man_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 5056
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06768fdaf55e33cd0800000000000000
+      internalID: -2579465962449770656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleBack2
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 5037
+        width: 476
+        height: 1414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69daa0a2a8aea00800000000000000
+      internalID: 786592998101980911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeft
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2516
+        width: 801
+        height: 1417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916b4953e064f790800000000000000
+      internalID: -7497260950093078124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young man_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2534
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9cd838fa4b81480800000000000000
+      internalID: -8928187595342624288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSide
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2516
+        width: 260
+        height: 1417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1d859b3e952c0e0800000000000000
+      internalID: -2251138029129772597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young man_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2534
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fee9b31a2d3e4ab0800000000000000
+      internalID: -5022009283542651146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkBack
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2516
+        width: 476
+        height: 1417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a2bd984761bed0800000000000000
+      internalID: -2400023564830726175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young man_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 14
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a3891385a899080800000000000000
+      internalID: -9180154254024230319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFront
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 477
+        height: 1412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe8d478739ad0750800000000000000
+      internalID: 6272855911955271358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
