@@ -3,24 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using Ink.Runtime;
+using UnityEngine.SceneManagement;
 
 public class InkManager : MonoBehaviour
 {
     [SerializeField]
-    private TextAsset _inkJsonAsset;
-    private Story _story;
+    public TextAsset _inkJsonAsset;
+    public Story _story;
 
     [SerializeField]
-    private Text _textField, _nameField;
-
-    [SerializeField]
-    private GameObject _choiceButtonContainer, _dialogueBG;
+    private GameObject _choiceButtonContainer;
 
     [SerializeField]
     private Button _choiceButtonPrefab;
 
-    public Image oldImage;
-    public Sprite Joe, mom, friend, Narrator;
+    public GameObject joePanel, momPanel, friendPanel, narratorPanel, namePanel;
+    public Text joeText, momText, friendText, narratorText, currentTextField, nameField;
+
+   // public string activeObject = "";
+    public bool activeConvo = false;
 
     void Start()
     {
@@ -31,45 +32,87 @@ public class InkManager : MonoBehaviour
 
     public void DisplayNextLine()
     {
-        ///oldImage.sprite = Sprite;
+        DisablePanel();
+
         if (_story.canContinue)
         {
             string text = _story.Continue(); // gets next line
-
             text = text?.Trim(); // removes white space from text
 
-            _textField.text = text; // displays new text
+            //_textField.text = text; // displays new text
 
             List<string> tags = _story.currentTags;
 
             if (tags.Contains("Joe"))
             {
-                _nameField.text = "Joe";
-                oldImage.sprite = Joe;
+                nameField.text = "Joe";
+                currentTextField = joeText;
+                joePanel.SetActive(true);
+                namePanel.SetActive(true);
             }
             else if (tags.Contains("mom"))
             {
-                _nameField.text = "mom";
-                oldImage.sprite = mom;
+                nameField.text = "mom";
+                currentTextField = momText;
+                momPanel.SetActive(true);
+                namePanel.SetActive(true);
+
+                SceneManager.LoadScene(2);
+                if (!activeConvo)
+                {
+                    currentTextField.text = text;
+                }
+                else
+                {
+                    activeConvo = true;
+                }
             }
             else if (tags.Contains("friend"))
             {
-                _nameField.text = "friend";
-                oldImage.sprite = friend;
+                nameField.text = "friend";
+                currentTextField = friendText;
+                friendPanel.SetActive(true);
+                namePanel.SetActive(true);
             }
             else
             {
-                _nameField.text = "Narrator";
-                oldImage.sprite = Narrator;
+                nameField.text = "Narrator";
+                currentTextField = narratorText;
+                narratorPanel.SetActive(true);
+                namePanel.SetActive(true);
             }
+
+            currentTextField.text = text;
+            //if (activeObject == "")
+            //{
+               // Debug.Log("Nothing to think about");
+            //}
+            //else
+           // {
+                //if (!activeConvo)
+                //{
+                    //_story.ChoosePathString(activeObject);
+                    //activeConvo = true;
+               // } 
+           // }
         }
         else if (_story.currentChoices.Count > 0)
         {
-            oldImage.sprite = Narrator;
-            _textField.text = "";
+            narratorPanel.SetActive(true);
             DisplayChoices();
         }
-        //_dialogueBG.GetComponent<Image>().SourceImage = sprite; 
+        else
+        {
+            activeConvo = false;
+        }
+    }
+
+    private void DisablePanel()
+    {
+        joePanel.SetActive(false);
+        momPanel.SetActive(false);
+        friendPanel.SetActive(false);
+        narratorPanel.SetActive(false);
     }
 
     private void DisplayChoices()
